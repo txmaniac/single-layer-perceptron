@@ -16,7 +16,7 @@ typedef struct my_record {
 
 
 int flag = 0;
-float act_oup[44];
+float act_oup[10000];
 float weights[4];
 
 void shuffle(rec *shuffled, int length, int times)
