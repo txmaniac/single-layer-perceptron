@@ -1,0 +1,7273 @@
+Script started on 2018-09-19 05:29:47-0400
+txm@txm-Aspire-E5-575G: ~/Desktop ./slp iris.csv
+Number of elements in dataset : 100
+
+1 epochs executed 
+
+weights : -1.600000
+weights : -3.800000
+weights : 7.000000
+weights : 3.200000
+
+2 epochs executed 
+
+weights : -1.600000
+weights : -3.800000
+weights : 7.000000
+weights : 3.200000
+
+
+No more learning is possible
+
+Number of epochs required for training the model : 2
+
+
+Final weights : -1.600000
+Final weights : -3.800000
+Final weights : 7.000000
+Final weights : 3.200000
+
+Accuracy of the model : 100.000000
+
+txm@txm-Aspire-E5-575G: ~/Desktop ./slp bloodtransf.csv
+Number of elements in dataset : 748
+
+1 epochs executed 
+
+weights : -979.000000
+weights : -5.000000
+weights : -1250.000000
+weights : -2019.000000
+
+2 epochs executed 
+
+weights : -1650.000000
+weights : 0.000000
+weights : 0.000000
+weights : -3317.000000
+
+3 epochs executed 
+
+weights : -2346.000000
+weights : 0.000000
+weights : 0.000000
+weights : -4871.000000
+
+4 epochs executed 
+
+weights : -3131.000000
+weights : -2.000000
+weights : -500.000000
+weights : -6786.000000
+
+5 epochs executed 
+
+weights : -3789.000000
+weights : 0.000000
+weights : 0.000000
+weights : -8013.000000
+
+6 epochs executed 
+
+weights : -4176.000000
+weights : 1.000000
+weights : 250.000000
+weights : -8874.000000
+
+7 epochs executed 
+
+weights : -4720.000000
+weights : 5.000000
+weights : 1250.000000
+weights : -10580.000000
+
+8 epochs executed 
+
+weights : -5363.000000
+weights : -5.000000
+weights : -1250.000000
+weights : -11889.000000
+
+9 epochs executed 
+
+weights : -5852.000000
+weights : -1.000000
+weights : -250.000000
+weights : -13131.000000
+
+10 epochs executed 
+
+weights : -6224.000000
+weights : -6.000000
+weights : -1500.000000
+weights : -13945.000000
+
+11 epochs executed 
+
+weights : -6572.000000
+weights : 1.000000
+weights : 250.000000
+weights : -14806.000000
+
+12 epochs executed 
+
+weights : -7051.000000
+weights : -6.000000
+weights : -1500.000000
+weights : -15817.000000
+
+13 epochs executed 
+
+weights : -7461.000000
+weights : 0.000000
+weights : 0.000000
+weights : -16873.000000
+
+14 epochs executed 
+
+weights : -7872.000000
+weights : 4.000000
+weights : 1000.000000
+weights : -17970.000000
+
+15 epochs executed 
+
+weights : -8349.000000
+weights : -11.000000
+weights : -2750.000000
+weights : -18847.000000
+
+16 epochs executed 
+
+weights : -8835.000000
+weights : 1.000000
+weights : 250.000000
+weights : -20122.000000
+
+17 epochs executed 
+
+weights : -9224.000000
+weights : 16.000000
+weights : 4000.000000
+weights : -21237.000000
+
+18 epochs executed 
+
+weights : -9489.000000
+weights : 2.000000
+weights : 500.000000
+weights : -22049.000000
+
+19 epochs executed 
+
+weights : -9843.000000
+weights : -7.000000
+weights : -1750.000000
+weights : -22748.000000
+
+20 epochs executed 
+
+weights : -9990.000000
+weights : -13.000000
+weights : -3250.000000
+weights : -23329.000000
+
+21 epochs executed 
+
+weights : -10120.000000
+weights : -1.000000
+weights : -250.000000
+weights : -23751.000000
+
+22 epochs executed 
+
+weights : -10291.000000
+weights : -5.000000
+weights : -1250.000000
+weights : -24262.000000
+
+23 epochs executed 
+
+weights : -10721.000000
+weights : 9.000000
+weights : 2250.000000
+weights : -25426.000000
+
+24 epochs executed 
+
+weights : -11092.000000
+weights : 8.000000
+weights : 2000.000000
+weights : -26191.000000
+
+25 epochs executed 
+
+weights : -11192.000000
+weights : 3.000000
+weights : 750.000000
+weights : -26799.000000
+
+26 epochs executed 
+
+weights : -11372.000000
+weights : 2.000000
+weights : 500.000000
+weights : -27316.000000
+
+
+No more learning is possible
+
+Number of epochs required for training the model : 26
+
+
+Final weights : -11372.000000
+Final weights : 2.000000
+Final weights : 500.000000
+Final weights : -27316.000000
+
+Accuracy of the model : 74.000000
+
+txm@txm-Aspire-E5-575G: ~/Desktop ./slp banknoteauth.csv
+Number of elements in dataset : 1000
+
+1 epochs executed 
+
+weights : -29.862160
+weights : -18.454054
+weights : -18.813774
+weights : -3.966131
+
+2 epochs executed 
+
+weights : -37.428356
+weights : -22.317417
+weights : -23.152424
+weights : -17.052078
+
+3 epochs executed 
+
+weights : -39.116676
+weights : -19.215744
+weights : -26.781004
+weights : -12.357552
+
+4 epochs executed 
+
+weights : -35.049271
+weights : -27.023268
+weights : -26.939835
+weights : -18.261700
+
+5 epochs executed 
+
+weights : -39.731815
+weights : -22.750343
+weights : -29.836456
+weights : -23.545256
+
+6 epochs executed 
+
+weights : -41.267723
+weights : -34.059044
+weights : -26.509590
+weights : -16.326939
+
+7 epochs executed 
+
+weights : -40.929695
+weights : -30.057014
+weights : -36.195305
+weights : -15.296545
+
+8 epochs executed 
+
+weights : -41.241165
+weights : -32.411831
+weights : -35.595837
+weights : -12.024793
+
+9 epochs executed 
+
+weights : -49.402351
+weights : -30.775162
+weights : -31.529655
+weights : -12.667194
+
+10 epochs executed 
+
+weights : -48.814011
+weights : -29.574986
+weights : -30.439686
+weights : -20.535070
+
+11 epochs executed 
+
+weights : -47.788963
+weights : -34.052910
+weights : -35.020893
+weights : -11.411587
+
+12 epochs executed 
+
+weights : -44.995571
+weights : -37.717628
+weights : -30.844414
+weights : -13.077799
+
+13 epochs executed 
+
+weights : -45.488403
+weights : -30.090141
+weights : -38.422737
+weights : -12.833230
+
+14 epochs executed 
+
+weights : -44.598274
+weights : -35.261261
+weights : -35.247665
+weights : -11.860614
+
+15 epochs executed 
+
+weights : -44.005394
+weights : -40.182262
+weights : -30.007694
+weights : -11.857951
+
+16 epochs executed 
+
+weights : -46.561024
+weights : -32.925282
+weights : -30.417025
+weights : -16.384399
+
+17 epochs executed 
+
+weights : -46.913437
+weights : -30.570478
+weights : -36.246052
+weights : -16.522997
+
+18 epochs executed 
+
+weights : -44.596954
+weights : -26.336699
+weights : -43.758873
+weights : -16.880236
+
+19 epochs executed 
+
+weights : -45.535843
+weights : -35.874107
+weights : -30.914505
+weights : -25.275660
+
+20 epochs executed 
+
+weights : -48.287296
+weights : -37.544071
+weights : -32.972095
+weights : -22.808136
+
+21 epochs executed 
+
+weights : -47.759071
+weights : -45.030785
+weights : -30.753922
+weights : -18.263191
+
+22 epochs executed 
+
+weights : -53.325748
+weights : -38.078056
+weights : -36.191200
+weights : -13.364269
+
+23 epochs executed 
+
+weights : -52.771488
+weights : -28.894772
+weights : -46.207012
+weights : -20.377029
+
+24 epochs executed 
+
+weights : -57.418407
+weights : -30.736490
+weights : -35.305500
+weights : -21.313372
+
+25 epochs executed 
+
+weights : -55.628670
+weights : -34.196308
+weights : -33.722134
+weights : -17.012768
+
+26 epochs executed 
+
+weights : -50.057018
+weights : -33.995728
+weights : -42.279961
+weights : -10.130291
+
+27 epochs executed 
+
+weights : -52.577030
+weights : -39.926350
+weights : -32.837769
+weights : -18.952103
+
+28 epochs executed 
+
+weights : -52.523190
+weights : -36.994164
+weights : -30.887402
+weights : -20.081663
+
+29 epochs executed 
+
+weights : -50.481915
+weights : -35.340786
+weights : -33.594135
+weights : -23.018929
+
+30 epochs executed 
+
+weights : -49.994949
+weights : -35.649006
+weights : -32.866760
+weights : -22.188206
+
+31 epochs executed 
+
+weights : -45.076103
+weights : -35.386234
+weights : -37.397484
+weights : -16.777328
+
+32 epochs executed 
+
+weights : -44.253731
+weights : -32.996372
+weights : -40.825813
+weights : -16.935347
+
+33 epochs executed 
+
+weights : -49.489552
+weights : -32.226593
+weights : -35.111137
+weights : -18.520401
+
+34 epochs executed 
+
+weights : -44.977161
+weights : -32.373615
+weights : -37.985062
+weights : -14.005144
+
+35 epochs executed 
+
+weights : -47.000492
+weights : -37.619228
+weights : -27.850697
+weights : -18.212759
+
+36 epochs executed 
+
+weights : -46.335899
+weights : -35.378422
+weights : -32.856224
+weights : -18.613024
+
+37 epochs executed 
+
+weights : -49.933659
+weights : -28.485636
+weights : -32.551979
+weights : -19.277077
+
+38 epochs executed 
+
+weights : -42.813866
+weights : -33.874138
+weights : -37.259800
+weights : -11.002498
+
+39 epochs executed 
+
+weights : -43.606922
+weights : -29.309456
+weights : -37.239510
+weights : -16.668711
+
+40 epochs executed 
+
+weights : -50.145435
+weights : -29.270069
+weights : -27.987017
+weights : -17.967531
+
+41 epochs executed 
+
+weights : -46.229244
+weights : -31.014500
+weights : -34.252850
+weights : -18.450504
+
+42 epochs executed 
+
+weights : -46.411976
+weights : -25.305502
+weights : -38.154171
+weights : -18.410795
+
+43 epochs executed 
+
+weights : -43.701485
+weights : -29.909828
+weights : -34.845200
+weights : -27.096838
+
+44 epochs executed 
+
+weights : -44.572613
+weights : -31.575525
+weights : -31.902925
+weights : -22.651409
+
+45 epochs executed 
+
+weights : -41.977840
+weights : -35.140839
+weights : -35.958862
+weights : -14.681461
+
+46 epochs executed 
+
+weights : -46.726437
+weights : -35.956242
+weights : -30.803862
+weights : -11.547544
+
+47 epochs executed 
+
+weights : -48.016541
+weights : -34.567764
+weights : -23.236092
+weights : -21.408144
+
+48 epochs executed 
+
+weights : -47.022762
+weights : -26.019686
+weights : -40.379204
+weights : -22.350531
+
+49 epochs executed 
+
+weights : -47.518471
+weights : -35.679203
+weights : -35.373135
+weights : -19.334883
+
+50 epochs executed 
+
+weights : -53.361736
+weights : -31.228218
+weights : -34.688549
+weights : -17.346272
+
+51 epochs executed 
+
+weights : -52.139626
+weights : -41.707119
+weights : -24.446381
+weights : -15.451715
+
+52 epochs executed 
+
+weights : -48.468395
+weights : -40.386955
+weights : -31.232004
+weights : -14.621380
+
+53 epochs executed 
+
+weights : -44.444935
+weights : -33.076275
+weights : -34.551231
+weights : -28.652256
+
+54 epochs executed 
+
+weights : -53.053062
+weights : -35.418667
+weights : -31.888618
+weights : -20.934769
+
+55 epochs executed 
+
+weights : -52.010273
+weights : -29.775681
+weights : -35.510052
+weights : -23.127773
+
+56 epochs executed 
+
+weights : -49.275352
+weights : -43.919292
+weights : -25.993685
+weights : -23.672840
+
+57 epochs executed 
+
+weights : -47.801323
+weights : -35.853279
+weights : -39.066322
+weights : -22.760567
+
+58 epochs executed 
+
+weights : -51.950069
+weights : -45.938896
+weights : -34.903252
+weights : -18.784122
+
+59 epochs executed 
+
+weights : -52.556011
+weights : -44.105576
+weights : -32.027290
+weights : -22.523592
+
+60 epochs executed 
+
+weights : -48.286942
+weights : -36.753391
+weights : -43.018215
+weights : -19.535095
+
+61 epochs executed 
+
+weights : -50.926064
+weights : -39.128910
+weights : -33.590248
+weights : -22.830593
+
+62 epochs executed 
+
+weights : -51.447464
+weights : -33.872898
+weights : -37.418381
+weights : -20.552778
+
+63 epochs executed 
+
+weights : -46.880985
+weights : -37.771515
+weights : -40.906605
+weights : -12.118128
+
+64 epochs executed 
+
+weights : -53.801525
+weights : -37.866772
+weights : -27.797623
+weights : -20.346779
+
+65 epochs executed 
+
+weights : -47.930882
+weights : -48.424469
+weights : -26.983150
+weights : -17.236595
+
+66 epochs executed 
+
+weights : -50.492481
+weights : -38.241585
+weights : -32.859364
+weights : -16.593004
+
+67 epochs executed 
+
+weights : -48.925323
+weights : -35.427380
+weights : -36.071995
+weights : -20.187613
+
+68 epochs executed 
+
+weights : -50.808029
+weights : -39.458374
+weights : -36.196934
+weights : -9.742673
+
+69 epochs executed 
+
+weights : -49.451790
+weights : -26.978586
+weights : -42.722862
+weights : -18.595097
+
+70 epochs executed 
+
+weights : -47.771591
+weights : -35.094299
+weights : -38.739296
+weights : -11.239354
+
+71 epochs executed 
+
+weights : -44.712749
+weights : -42.076027
+weights : -33.520824
+weights : -17.477854
+
+72 epochs executed 
+
+weights : -45.777714
+weights : -37.575424
+weights : -31.489355
+weights : -20.782026
+
+73 epochs executed 
+
+weights : -43.759392
+weights : -43.837128
+weights : -33.427380
+weights : -13.394116
+
+74 epochs executed 
+
+weights : -44.614594
+weights : -34.037144
+weights : -38.050095
+weights : -19.636007
+
+75 epochs executed 
+
+weights : -52.144089
+weights : -32.797756
+weights : -34.553684
+weights : -19.154726
+
+76 epochs executed 
+
+weights : -50.913803
+weights : -33.559444
+weights : -34.682621
+weights : -21.766508
+
+77 epochs executed 
+
+weights : -53.986263
+weights : -36.179234
+weights : -36.427322
+weights : -14.212530
+
+78 epochs executed 
+
+weights : -54.068794
+weights : -47.239548
+weights : -23.129646
+weights : -17.255741
+
+79 epochs executed 
+
+weights : -47.052494
+weights : -38.379066
+weights : -38.474773
+weights : -17.541803
+
+80 epochs executed 
+
+weights : -56.617195
+weights : -36.055191
+weights : -26.849907
+weights : -18.491663
+
+81 epochs executed 
+
+weights : -49.089314
+weights : -38.335613
+weights : -34.379940
+weights : -11.187303
+
+82 epochs executed 
+
+weights : -49.670761
+weights : -36.231129
+weights : -35.472572
+weights : -13.019908
+
+83 epochs executed 
+
+weights : -47.663090
+weights : -35.328949
+weights : -33.222305
+weights : -17.794640
+
+84 epochs executed 
+
+weights : -50.520126
+weights : -38.807568
+weights : -26.839336
+weights : -20.122902
+
+85 epochs executed 
+
+weights : -46.567822
+weights : -35.763584
+weights : -35.332973
+weights : -16.872810
+
+86 epochs executed 
+
+weights : -43.612938
+weights : -37.222401
+weights : -34.831005
+weights : -17.303596
+
+87 epochs executed 
+
+weights : -43.972218
+weights : -37.090019
+weights : -32.259033
+weights : -24.924866
+
+88 epochs executed 
+
+weights : -50.269108
+weights : -38.534386
+weights : -28.957554
+weights : -20.979805
+
+89 epochs executed 
+
+weights : -53.122135
+weights : -32.951424
+weights : -35.347477
+weights : -18.485352
+
+90 epochs executed 
+
+weights : -49.979282
+weights : -33.504044
+weights : -37.325409
+weights : -17.561754
+
+91 epochs executed 
+
+weights : -49.984859
+weights : -30.164158
+weights : -38.815243
+weights : -19.109041
+
+92 epochs executed 
+
+weights : -50.040096
+weights : -44.175278
+weights : -21.316071
+weights : -24.213036
+
+93 epochs executed 
+
+weights : -45.466972
+weights : -35.144997
+weights : -32.985695
+weights : -21.038176
+
+94 epochs executed 
+
+weights : -47.702850
+weights : -30.327801
+weights : -34.470505
+weights : -20.803085
+
+95 epochs executed 
+
+weights : -41.964508
+weights : -33.802109
+weights : -35.757439
+weights : -19.448189
+
+96 epochs executed 
+
+weights : -42.655285
+weights : -28.664108
+weights : -36.120750
+weights : -16.109661
+
+97 epochs executed 
+
+weights : -44.365219
+weights : -31.765982
+weights : -32.233150
+weights : -14.194071
+
+98 epochs executed 
+
+weights : -45.682396
+weights : -33.570374
+weights : -23.943094
+weights : -15.393409
+
+99 epochs executed 
+
+weights : -40.682510
+weights : -32.419968
+weights : -32.883732
+weights : -14.543582
+
+100 epochs executed 
+
+weights : -44.254093
+weights : -26.998541
+weights : -35.653969
+weights : -20.992561
+
+101 epochs executed 
+
+weights : -43.458015
+weights : -33.367760
+weights : -36.311699
+weights : -10.303083
+
+102 epochs executed 
+
+weights : -44.262081
+weights : -37.007633
+weights : -28.993837
+weights : -13.139932
+
+103 epochs executed 
+
+weights : -50.044659
+weights : -38.786945
+weights : -22.489874
+weights : -18.643049
+
+104 epochs executed 
+
+weights : -46.957504
+weights : -32.759239
+weights : -31.512417
+weights : -16.998552
+
+105 epochs executed 
+
+weights : -50.691895
+weights : -37.773159
+weights : -26.150650
+weights : -17.584717
+
+106 epochs executed 
+
+weights : -39.903931
+weights : -33.214687
+weights : -37.945084
+weights : -16.922878
+
+107 epochs executed 
+
+weights : -42.820320
+weights : -31.534409
+weights : -33.493820
+weights : -19.830511
+
+108 epochs executed 
+
+weights : -42.739319
+weights : -36.399284
+weights : -38.249966
+weights : -15.569244
+
+109 epochs executed 
+
+weights : -41.327972
+weights : -33.233406
+weights : -40.530800
+weights : -19.420761
+
+110 epochs executed 
+
+weights : -44.310108
+weights : -38.381905
+weights : -34.683121
+weights : -14.405929
+
+111 epochs executed 
+
+weights : -49.060726
+weights : -32.244518
+weights : -36.319542
+weights : -22.213091
+
+112 epochs executed 
+
+weights : -45.271423
+weights : -36.536335
+weights : -30.801569
+weights : -24.203352
+
+113 epochs executed 
+
+weights : -45.487331
+weights : -35.234745
+weights : -33.662895
+weights : -18.964872
+
+114 epochs executed 
+
+weights : -47.544579
+weights : -35.472771
+weights : -29.814722
+weights : -21.903545
+
+115 epochs executed 
+
+weights : -45.518578
+weights : -32.058586
+weights : -36.646332
+weights : -20.727112
+
+116 epochs executed 
+
+weights : -45.368999
+weights : -33.027103
+weights : -43.192936
+weights : -10.458461
+
+117 epochs executed 
+
+weights : -47.766315
+weights : -30.343218
+weights : -41.602566
+weights : -20.289274
+
+118 epochs executed 
+
+weights : -50.353390
+weights : -41.711903
+weights : -31.144361
+weights : -15.149198
+
+119 epochs executed 
+
+weights : -57.672096
+weights : -32.125118
+weights : -32.880054
+weights : -22.186871
+
+120 epochs executed 
+
+weights : -56.198845
+weights : -28.297039
+weights : -36.994884
+weights : -18.806505
+
+121 epochs executed 
+
+weights : -53.750751
+weights : -31.022352
+weights : -36.845112
+weights : -19.637039
+
+122 epochs executed 
+
+weights : -50.176224
+weights : -37.830368
+weights : -38.671143
+weights : -17.897972
+
+123 epochs executed 
+
+weights : -51.473385
+weights : -34.838181
+weights : -34.501270
+weights : -23.578463
+
+124 epochs executed 
+
+weights : -51.856258
+weights : -33.826298
+weights : -38.567402
+weights : -21.248861
+
+125 epochs executed 
+
+weights : -53.011681
+weights : -35.158913
+weights : -35.148327
+weights : -22.052517
+
+126 epochs executed 
+
+weights : -50.243958
+weights : -33.865612
+weights : -40.305553
+weights : -20.607080
+
+127 epochs executed 
+
+weights : -50.447292
+weights : -36.895023
+weights : -35.312778
+weights : -24.227982
+
+128 epochs executed 
+
+weights : -46.837688
+weights : -32.975746
+weights : -39.330009
+weights : -25.725073
+
+129 epochs executed 
+
+weights : -46.004818
+weights : -35.864563
+weights : -39.899639
+weights : -17.817177
+
+130 epochs executed 
+
+weights : -54.569538
+weights : -35.094879
+weights : -35.800262
+weights : -17.442791
+
+131 epochs executed 
+
+weights : -51.933426
+weights : -43.957691
+weights : -33.986195
+weights : -13.381771
+
+132 epochs executed 
+
+weights : -53.547520
+weights : -40.040493
+weights : -39.383427
+weights : -13.575869
+
+133 epochs executed 
+
+weights : -52.193348
+weights : -41.648308
+weights : -40.587360
+weights : -19.607206
+
+134 epochs executed 
+
+weights : -52.306465
+weights : -43.918324
+weights : -31.879688
+weights : -21.347546
+
+135 epochs executed 
+
+weights : -51.658863
+weights : -37.650436
+weights : -40.464394
+weights : -19.337021
+
+136 epochs executed 
+
+weights : -54.155323
+weights : -35.239754
+weights : -36.934319
+weights : -19.876495
+
+137 epochs executed 
+
+weights : -47.090176
+weights : -35.541874
+weights : -46.689743
+weights : -14.016101
+
+138 epochs executed 
+
+weights : -50.480629
+weights : -39.763184
+weights : -39.270687
+weights : -13.781840
+
+139 epochs executed 
+
+weights : -49.798096
+weights : -43.305866
+weights : -32.944984
+weights : -23.500626
+
+140 epochs executed 
+
+weights : -48.607914
+weights : -37.064781
+weights : -40.247707
+weights : -19.469437
+
+141 epochs executed 
+
+weights : -50.197235
+weights : -35.392899
+weights : -38.397736
+weights : -20.748459
+
+142 epochs executed 
+
+weights : -47.319988
+weights : -31.167606
+weights : -46.264065
+weights : -21.660854
+
+143 epochs executed 
+
+weights : -49.470440
+weights : -36.858120
+weights : -39.482574
+weights : -16.166294
+
+144 epochs executed 
+
+weights : -52.513378
+weights : -30.050222
+weights : -39.687805
+weights : -17.935194
+
+145 epochs executed 
+
+weights : -48.493774
+weights : -34.323242
+weights : -35.725029
+weights : -17.887657
+
+146 epochs executed 
+
+weights : -49.269642
+weights : -30.546860
+weights : -32.234455
+weights : -18.549997
+
+147 epochs executed 
+
+weights : -44.242989
+weights : -33.841385
+weights : -31.265985
+weights : -21.638525
+
+148 epochs executed 
+
+weights : -43.814449
+weights : -34.470383
+weights : -31.687912
+weights : -15.677159
+
+149 epochs executed 
+
+weights : -41.998676
+weights : -27.844582
+weights : -41.434532
+weights : -12.739556
+
+150 epochs executed 
+
+weights : -42.089939
+weights : -34.416702
+weights : -34.410255
+weights : -11.988550
+
+151 epochs executed 
+
+weights : -43.761791
+weights : -29.543697
+weights : -42.572865
+weights : -18.771921
+
+152 epochs executed 
+
+weights : -45.326752
+weights : -34.839012
+weights : -37.246418
+weights : -16.980278
+
+153 epochs executed 
+
+weights : -45.227631
+weights : -42.869930
+weights : -25.503149
+weights : -21.048965
+
+154 epochs executed 
+
+weights : -48.220539
+weights : -31.159954
+weights : -33.692940
+weights : -17.634176
+
+155 epochs executed 
+
+weights : -49.048668
+weights : -36.496651
+weights : -31.813778
+weights : -21.201422
+
+156 epochs executed 
+
+weights : -45.314922
+weights : -39.792965
+weights : -38.154011
+weights : -17.455179
+
+157 epochs executed 
+
+weights : -49.762920
+weights : -39.532063
+weights : -37.140739
+weights : -17.709801
+
+158 epochs executed 
+
+weights : -53.246490
+weights : -40.266663
+weights : -33.659569
+weights : -14.186388
+
+159 epochs executed 
+
+weights : -52.891029
+weights : -33.628681
+weights : -36.936283
+weights : -19.708092
+
+160 epochs executed 
+
+weights : -49.588776
+weights : -33.943283
+weights : -35.523811
+weights : -18.352814
+
+161 epochs executed 
+
+weights : -44.747631
+weights : -38.980198
+weights : -36.521240
+weights : -21.129423
+
+162 epochs executed 
+
+weights : -46.689869
+weights : -31.781202
+weights : -36.566170
+weights : -22.115753
+
+163 epochs executed 
+
+weights : -49.965408
+weights : -30.498215
+weights : -37.103073
+weights : -20.747505
+
+164 epochs executed 
+
+weights : -48.153294
+weights : -38.609795
+weights : -34.025513
+weights : -19.181246
+
+165 epochs executed 
+
+weights : -44.018158
+weights : -38.518806
+weights : -39.220940
+weights : -16.840687
+
+166 epochs executed 
+
+weights : -48.843170
+weights : -46.276619
+weights : -21.891167
+weights : -20.175053
+
+167 epochs executed 
+
+weights : -45.836372
+weights : -41.318432
+weights : -31.840391
+weights : -15.501758
+
+168 epochs executed 
+
+weights : -50.086472
+weights : -30.740257
+weights : -38.778416
+weights : -23.343487
+
+169 epochs executed 
+
+weights : -50.174442
+weights : -36.466076
+weights : -35.785927
+weights : -16.411833
+
+170 epochs executed 
+
+weights : -46.056988
+weights : -42.036598
+weights : -33.797153
+weights : -13.617681
+
+171 epochs executed 
+
+weights : -48.153717
+weights : -34.129997
+weights : -36.514374
+weights : -18.953211
+
+172 epochs executed 
+
+weights : -49.215607
+weights : -41.453217
+weights : -27.174000
+weights : -18.120672
+
+173 epochs executed 
+
+weights : -50.737228
+weights : -37.879532
+weights : -29.548632
+weights : -17.701532
+
+174 epochs executed 
+
+weights : -46.618275
+weights : -34.566551
+weights : -34.366261
+weights : -15.598908
+
+175 epochs executed 
+
+weights : -46.575222
+weights : -31.083876
+weights : -33.214485
+weights : -17.865051
+
+176 epochs executed 
+
+weights : -44.219757
+weights : -32.329674
+weights : -32.465385
+weights : -19.012682
+
+177 epochs executed 
+
+weights : -45.225693
+weights : -33.252571
+weights : -30.616215
+weights : -16.391054
+
+178 epochs executed 
+
+weights : -45.611023
+weights : -26.475693
+weights : -30.237642
+weights : -22.415838
+
+179 epochs executed 
+
+weights : -48.568325
+weights : -30.678520
+weights : -33.846363
+weights : -9.676857
+
+180 epochs executed 
+
+weights : -47.173000
+weights : -27.365734
+weights : -31.555492
+weights : -15.459377
+
+181 epochs executed 
+
+weights : -44.133442
+weights : -30.800858
+weights : -30.536322
+weights : -14.806299
+
+182 epochs executed 
+
+weights : -40.944519
+weights : -29.064873
+weights : -31.046652
+weights : -13.449085
+
+183 epochs executed 
+
+weights : -45.457932
+weights : -28.547592
+weights : -28.637856
+weights : -15.102470
+
+184 epochs executed 
+
+weights : -40.678577
+weights : -30.542517
+weights : -36.048866
+weights : -8.244891
+
+185 epochs executed 
+
+weights : -43.087521
+weights : -35.833817
+weights : -32.189659
+weights : -16.858507
+
+186 epochs executed 
+
+weights : -48.413521
+weights : -35.550304
+weights : -33.517002
+weights : -10.933816
+
+187 epochs executed 
+
+weights : -45.080910
+weights : -38.991524
+weights : -36.460831
+weights : -13.615001
+
+188 epochs executed 
+
+weights : -45.835587
+weights : -36.106823
+weights : -37.345566
+weights : -15.608834
+
+189 epochs executed 
+
+weights : -51.208988
+weights : -39.076305
+weights : -35.828968
+weights : -20.363770
+
+190 epochs executed 
+
+weights : -49.017719
+weights : -34.230122
+weights : -41.764702
+weights : -17.336472
+
+191 epochs executed 
+
+weights : -55.423897
+weights : -35.088928
+weights : -33.912605
+weights : -16.395296
+
+192 epochs executed 
+
+weights : -53.319122
+weights : -35.751251
+weights : -37.301529
+weights : -20.658915
+
+193 epochs executed 
+
+weights : -49.351395
+weights : -39.484241
+weights : -43.064228
+weights : -12.707614
+
+194 epochs executed 
+
+weights : -55.588333
+weights : -29.421362
+weights : -40.791103
+weights : -20.562147
+
+195 epochs executed 
+
+weights : -53.997211
+weights : -34.799480
+weights : -40.216011
+weights : -16.687412
+
+196 epochs executed 
+
+weights : -54.510654
+weights : -44.049206
+weights : -29.243639
+weights : -18.408266
+
+197 epochs executed 
+
+weights : -50.550934
+weights : -37.394424
+weights : -32.923870
+weights : -25.872271
+
+198 epochs executed 
+
+weights : -45.953541
+weights : -34.495338
+weights : -39.546993
+weights : -24.601831
+
+199 epochs executed 
+
+weights : -47.649372
+weights : -31.284058
+weights : -48.552731
+weights : -20.968906
+
+200 epochs executed 
+
+weights : -50.396851
+weights : -37.754951
+weights : -37.613735
+weights : -23.710138
+
+201 epochs executed 
+
+weights : -51.006641
+weights : -36.900261
+weights : -37.669567
+weights : -18.469440
+
+202 epochs executed 
+
+weights : -51.905132
+weights : -38.617779
+weights : -30.995998
+weights : -17.331316
+
+203 epochs executed 
+
+weights : -48.525970
+weights : -38.566135
+weights : -34.866730
+weights : -16.101519
+
+204 epochs executed 
+
+weights : -56.308437
+weights : -29.500553
+weights : -36.013939
+weights : -20.209068
+
+205 epochs executed 
+
+weights : -48.387871
+weights : -43.263470
+weights : -32.668266
+weights : -10.717539
+
+206 epochs executed 
+
+weights : -54.056679
+weights : -34.247482
+weights : -35.561584
+weights : -12.356506
+
+207 epochs executed 
+
+weights : -55.375172
+weights : -36.281601
+weights : -34.155220
+weights : -13.594609
+
+208 epochs executed 
+
+weights : -48.788330
+weights : -38.030220
+weights : -37.425552
+weights : -10.457026
+
+209 epochs executed 
+
+weights : -46.591671
+weights : -42.200035
+weights : -36.872776
+weights : -16.808964
+
+210 epochs executed 
+
+weights : -50.130466
+weights : -39.760441
+weights : -35.891193
+weights : -18.868624
+
+211 epochs executed 
+
+weights : -49.203037
+weights : -40.507355
+weights : -40.371609
+weights : -11.362400
+
+212 epochs executed 
+
+weights : -51.106674
+weights : -36.865456
+weights : -34.255939
+weights : -13.265703
+
+213 epochs executed 
+
+weights : -46.329483
+weights : -31.967573
+weights : -42.534267
+weights : -11.704711
+
+214 epochs executed 
+
+weights : -47.696392
+weights : -39.075577
+weights : -36.834858
+weights : -10.296188
+
+215 epochs executed 
+
+weights : -51.130455
+weights : -35.212082
+weights : -33.477791
+weights : -17.280479
+
+216 epochs executed 
+
+weights : -52.687447
+weights : -30.535700
+weights : -33.387680
+weights : -23.418268
+
+217 epochs executed 
+
+weights : -47.023998
+weights : -36.729218
+weights : -34.058609
+weights : -17.096539
+
+218 epochs executed 
+
+weights : -48.984638
+weights : -28.067137
+weights : -39.237038
+weights : -16.427334
+
+219 epochs executed 
+
+weights : -52.837723
+weights : -38.080460
+weights : -37.220192
+weights : -14.120747
+
+220 epochs executed 
+
+weights : -45.159447
+weights : -39.827080
+weights : -36.924820
+weights : -21.037348
+
+221 epochs executed 
+
+weights : -46.543442
+weights : -32.872299
+weights : -40.902950
+weights : -26.657761
+
+222 epochs executed 
+
+weights : -50.588417
+weights : -35.781620
+weights : -36.671886
+weights : -20.674038
+
+223 epochs executed 
+
+weights : -51.692448
+weights : -32.384033
+weights : -38.795731
+weights : -18.159771
+
+224 epochs executed 
+
+weights : -52.470043
+weights : -36.512260
+weights : -36.011055
+weights : -17.922110
+
+225 epochs executed 
+
+weights : -53.027847
+weights : -31.175472
+weights : -41.176952
+weights : -16.157228
+
+226 epochs executed 
+
+weights : -53.459129
+weights : -31.527298
+weights : -40.707279
+weights : -25.923454
+
+227 epochs executed 
+
+weights : -53.581173
+weights : -44.534817
+weights : -32.606213
+weights : -21.018486
+
+228 epochs executed 
+
+weights : -52.070183
+weights : -45.695736
+weights : -36.539936
+weights : -18.208803
+
+229 epochs executed 
+
+weights : -52.762085
+weights : -42.018620
+weights : -37.353848
+weights : -20.321833
+
+230 epochs executed 
+
+weights : -46.998215
+weights : -40.088039
+weights : -37.964676
+weights : -23.657446
+
+231 epochs executed 
+
+weights : -49.706688
+weights : -34.999893
+weights : -43.807369
+weights : -18.930088
+
+232 epochs executed 
+
+weights : -54.049732
+weights : -33.538811
+weights : -34.704197
+weights : -25.075678
+
+233 epochs executed 
+
+weights : -50.232727
+weights : -32.574532
+weights : -38.951927
+weights : -17.273001
+
+234 epochs executed 
+
+weights : -52.943115
+weights : -42.234020
+weights : -32.354046
+weights : -11.298345
+
+235 epochs executed 
+
+weights : -46.169491
+weights : -36.740219
+weights : -41.170265
+weights : -17.428720
+
+236 epochs executed 
+
+weights : -46.565285
+weights : -33.346512
+weights : -34.968063
+weights : -26.759577
+
+237 epochs executed 
+
+weights : -48.120922
+weights : -36.510303
+weights : -39.444263
+weights : -17.655218
+
+238 epochs executed 
+
+weights : -57.168129
+weights : -35.010124
+weights : -33.255085
+weights : -16.022640
+
+239 epochs executed 
+
+weights : -53.283825
+weights : -33.774845
+weights : -33.628216
+weights : -20.151377
+
+240 epochs executed 
+
+weights : -53.827217
+weights : -38.308659
+weights : -34.531509
+weights : -12.907248
+
+241 epochs executed 
+
+weights : -49.099892
+weights : -30.621376
+weights : -40.497238
+weights : -15.842331
+
+242 epochs executed 
+
+weights : -51.352310
+weights : -34.720680
+weights : -32.158852
+weights : -20.049881
+
+243 epochs executed 
+
+weights : -53.844612
+weights : -28.628798
+weights : -38.399490
+weights : -16.231037
+
+244 epochs executed 
+
+weights : -51.901093
+weights : -30.404415
+weights : -36.856415
+weights : -16.042599
+
+245 epochs executed 
+
+weights : -53.423210
+weights : -31.116230
+weights : -35.795143
+weights : -21.454098
+
+246 epochs executed 
+
+weights : -50.989300
+weights : -37.086151
+weights : -34.301968
+weights : -16.109526
+
+247 epochs executed 
+
+weights : -48.858768
+weights : -34.946568
+weights : -35.609589
+weights : -14.705357
+
+248 epochs executed 
+
+weights : -52.562931
+weights : -36.529785
+weights : -35.895397
+weights : -18.841276
+
+249 epochs executed 
+
+weights : -52.068436
+weights : -37.910107
+weights : -31.565931
+weights : -21.090168
+
+250 epochs executed 
+
+weights : -49.456223
+weights : -43.518021
+weights : -30.234856
+weights : -25.449209
+
+251 epochs executed 
+
+weights : -51.300072
+weights : -44.442917
+weights : -34.670853
+weights : -16.351934
+
+252 epochs executed 
+
+weights : -51.904819
+weights : -39.634010
+weights : -35.141373
+weights : -23.416307
+
+253 epochs executed 
+
+weights : -50.773651
+weights : -38.845596
+weights : -39.361565
+weights : -24.645914
+
+254 epochs executed 
+
+weights : -57.779461
+weights : -36.035496
+weights : -38.461658
+weights : -13.938430
+
+255 epochs executed 
+
+weights : -49.930008
+weights : -35.619774
+weights : -42.502998
+weights : -19.382204
+
+256 epochs executed 
+
+weights : -53.886311
+weights : -36.306805
+weights : -38.110928
+weights : -20.919802
+
+257 epochs executed 
+
+weights : -50.853470
+weights : -40.517921
+weights : -34.788651
+weights : -20.173056
+
+258 epochs executed 
+
+weights : -47.990597
+weights : -39.750317
+weights : -36.709175
+weights : -24.195730
+
+259 epochs executed 
+
+weights : -51.791515
+weights : -41.515533
+weights : -35.965969
+weights : -16.727409
+
+260 epochs executed 
+
+weights : -57.015835
+weights : -37.608650
+weights : -28.813694
+weights : -21.699930
+
+261 epochs executed 
+
+weights : -51.130337
+weights : -39.812370
+weights : -38.366726
+weights : -17.492460
+
+262 epochs executed 
+
+weights : -50.906654
+weights : -40.342091
+weights : -38.177555
+weights : -17.576847
+
+263 epochs executed 
+
+weights : -54.125061
+weights : -34.343082
+weights : -31.962894
+weights : -21.780867
+
+264 epochs executed 
+
+weights : -49.909790
+weights : -34.268700
+weights : -43.617821
+weights : -16.597836
+
+265 epochs executed 
+
+weights : -53.056129
+weights : -40.762215
+weights : -28.968847
+weights : -23.342369
+
+266 epochs executed 
+
+weights : -50.431061
+weights : -31.930531
+weights : -38.270176
+weights : -20.644749
+
+267 epochs executed 
+
+weights : -42.726250
+weights : -37.457645
+weights : -44.677406
+weights : -17.971333
+
+268 epochs executed 
+
+weights : -50.678162
+weights : -36.553265
+weights : -37.634838
+weights : -13.288353
+
+269 epochs executed 
+
+weights : -47.993965
+weights : -35.344780
+weights : -40.689163
+weights : -13.189401
+
+270 epochs executed 
+
+weights : -47.292255
+weights : -40.815998
+weights : -34.386494
+weights : -12.943593
+
+271 epochs executed 
+
+weights : -53.367226
+weights : -34.332920
+weights : -32.067822
+weights : -16.343882
+
+272 epochs executed 
+
+weights : -49.247181
+weights : -33.499142
+weights : -36.404846
+weights : -22.163996
+
+273 epochs executed 
+
+weights : -50.653679
+weights : -33.677258
+weights : -38.639957
+weights : -20.914066
+
+274 epochs executed 
+
+weights : -49.052635
+weights : -35.196178
+weights : -37.987881
+weights : -26.559938
+
+275 epochs executed 
+
+weights : -49.745266
+weights : -36.056992
+weights : -39.440388
+weights : -18.612350
+
+276 epochs executed 
+
+weights : -52.080963
+weights : -35.879192
+weights : -39.301708
+weights : -15.800113
+
+277 epochs executed 
+
+weights : -50.626156
+weights : -33.491306
+weights : -40.972641
+weights : -15.392995
+
+278 epochs executed 
+
+weights : -54.410023
+weights : -31.821428
+weights : -34.330872
+weights : -15.635884
+
+279 epochs executed 
+
+weights : -52.982033
+weights : -34.087448
+weights : -37.014099
+weights : -10.879232
+
+280 epochs executed 
+
+weights : -52.990978
+weights : -33.793770
+weights : -35.118126
+weights : -17.806625
+
+281 epochs executed 
+
+weights : -53.183540
+weights : -45.065186
+weights : -24.956654
+weights : -14.842207
+
+282 epochs executed 
+
+weights : -49.452560
+weights : -33.802200
+weights : -40.695488
+weights : -17.399759
+
+283 epochs executed 
+
+weights : -51.446384
+weights : -34.969215
+weights : -39.551586
+weights : -15.603933
+
+284 epochs executed 
+
+weights : -49.234478
+weights : -36.219131
+weights : -42.849518
+weights : -12.879537
+
+285 epochs executed 
+
+weights : -52.607807
+weights : -39.008545
+weights : -37.200745
+weights : -21.111126
+
+286 epochs executed 
+
+weights : -51.711079
+weights : -39.525665
+weights : -34.758781
+weights : -21.306494
+
+287 epochs executed 
+
+weights : -51.115208
+weights : -43.072495
+weights : -36.606911
+weights : -16.367638
+
+288 epochs executed 
+
+weights : -48.899414
+weights : -39.459515
+weights : -37.925735
+weights : -23.254868
+
+289 epochs executed 
+
+weights : -51.668163
+weights : -34.954807
+weights : -42.505642
+weights : -17.407774
+
+290 epochs executed 
+
+weights : -49.844765
+weights : -38.387825
+weights : -37.959564
+weights : -17.263929
+
+291 epochs executed 
+
+weights : -51.231709
+weights : -38.342529
+weights : -29.887991
+weights : -24.580832
+
+292 epochs executed 
+
+weights : -49.550671
+weights : -29.984715
+weights : -38.068996
+weights : -21.083780
+
+293 epochs executed 
+
+weights : -50.388630
+weights : -30.164837
+weights : -37.185024
+weights : -15.218090
+
+294 epochs executed 
+
+weights : -53.338848
+weights : -40.026962
+weights : -26.256350
+weights : -20.846758
+
+295 epochs executed 
+
+weights : -48.602097
+weights : -40.695274
+weights : -30.964172
+weights : -16.032326
+
+296 epochs executed 
+
+weights : -50.475540
+weights : -37.163193
+weights : -31.332403
+weights : -16.766741
+
+297 epochs executed 
+
+weights : -45.912178
+weights : -31.065014
+weights : -38.339436
+weights : -17.279469
+
+298 epochs executed 
+
+weights : -49.417973
+weights : -33.440742
+weights : -32.774155
+weights : -18.065025
+
+299 epochs executed 
+
+weights : -47.979660
+weights : -48.260971
+weights : -22.431282
+weights : -18.757092
+
+300 epochs executed 
+
+weights : -49.863380
+weights : -41.405502
+weights : -33.142075
+weights : -16.680092
+
+301 epochs executed 
+
+weights : -49.989925
+weights : -39.665325
+weights : -35.542107
+weights : -19.033054
+
+302 epochs executed 
+
+weights : -46.104519
+weights : -35.946846
+weights : -41.248936
+weights : -21.963005
+
+303 epochs executed 
+
+weights : -55.114971
+weights : -28.706364
+weights : -36.068756
+weights : -22.342880
+
+304 epochs executed 
+
+weights : -55.820061
+weights : -34.628880
+weights : -39.623348
+weights : -12.907070
+
+305 epochs executed 
+
+weights : -57.877518
+weights : -43.313801
+weights : -30.078979
+weights : -16.478195
+
+306 epochs executed 
+
+weights : -53.285046
+weights : -34.945633
+weights : -40.728310
+weights : -21.146936
+
+307 epochs executed 
+
+weights : -55.779442
+weights : -27.548048
+weights : -42.034706
+weights : -20.199768
+
+308 epochs executed 
+
+weights : -56.769211
+weights : -31.396961
+weights : -33.298836
+weights : -23.649540
+
+309 epochs executed 
+
+weights : -52.862251
+weights : -33.263630
+weights : -36.291233
+weights : -20.613176
+
+310 epochs executed 
+
+weights : -46.378819
+weights : -37.230446
+weights : -39.691765
+weights : -15.621188
+
+311 epochs executed 
+
+weights : -49.375595
+weights : -30.923361
+weights : -39.154598
+weights : -22.287403
+
+312 epochs executed 
+
+weights : -52.926918
+weights : -33.921772
+weights : -34.212196
+weights : -15.402421
+
+313 epochs executed 
+
+weights : -49.215889
+weights : -32.020092
+weights : -36.196129
+weights : -21.163013
+
+314 epochs executed 
+
+weights : -45.142689
+weights : -33.925907
+weights : -38.394459
+weights : -18.088705
+
+315 epochs executed 
+
+weights : -47.728359
+weights : -34.846725
+weights : -35.799080
+weights : -16.217718
+
+316 epochs executed 
+
+weights : -48.318153
+weights : -33.017719
+weights : -37.132622
+weights : -16.865322
+
+317 epochs executed 
+
+weights : -48.734524
+weights : -33.144035
+weights : -32.833748
+weights : -21.892191
+
+318 epochs executed 
+
+weights : -46.756989
+weights : -31.463751
+weights : -34.166775
+weights : -22.611834
+
+319 epochs executed 
+
+weights : -46.433208
+weights : -32.194168
+weights : -32.621105
+weights : -20.117634
+
+320 epochs executed 
+
+weights : -46.725281
+weights : -28.725992
+weights : -34.355133
+weights : -15.913042
+
+321 epochs executed 
+
+weights : -42.870220
+weights : -39.521515
+weights : -34.284359
+weights : -8.421887
+
+322 epochs executed 
+
+weights : -51.455063
+weights : -33.423336
+weights : -30.481733
+weights : -8.070354
+
+323 epochs executed 
+
+weights : -49.040646
+weights : -35.859062
+weights : -28.496662
+weights : -22.455023
+
+324 epochs executed 
+
+weights : -43.849522
+weights : -41.998779
+weights : -35.100285
+weights : -19.527601
+
+325 epochs executed 
+
+weights : -51.721310
+weights : -35.236195
+weights : -30.531801
+weights : -15.573463
+
+326 epochs executed 
+
+weights : -47.840233
+weights : -42.934185
+weights : -25.671139
+weights : -19.473768
+
+327 epochs executed 
+
+weights : -49.545368
+weights : -38.216339
+weights : -26.798565
+weights : -22.446083
+
+328 epochs executed 
+
+weights : -50.585667
+weights : -38.032158
+weights : -29.403662
+weights : -23.513901
+
+329 epochs executed 
+
+weights : -49.560707
+weights : -37.409275
+weights : -36.409191
+weights : -16.740845
+
+330 epochs executed 
+
+weights : -47.664722
+weights : -29.899990
+weights : -45.678318
+weights : -20.296207
+
+331 epochs executed 
+
+weights : -47.104630
+weights : -42.855686
+weights : -38.768250
+weights : -17.236534
+
+332 epochs executed 
+
+weights : -46.512001
+weights : -34.644684
+weights : -47.431976
+weights : -17.495468
+
+333 epochs executed 
+
+weights : -51.802475
+weights : -36.488503
+weights : -31.042406
+weights : -25.031742
+
+334 epochs executed 
+
+weights : -58.430470
+weights : -35.325520
+weights : -32.331520
+weights : -21.470306
+
+335 epochs executed 
+
+weights : -54.386486
+weights : -35.509644
+weights : -37.155247
+weights : -19.140697
+
+336 epochs executed 
+
+weights : -52.611965
+weights : -36.523563
+weights : -33.381676
+weights : -26.475855
+
+337 epochs executed 
+
+weights : -54.899933
+weights : -37.709164
+weights : -28.893906
+weights : -22.163204
+
+338 epochs executed 
+
+weights : -48.367420
+weights : -37.121666
+weights : -39.433128
+weights : -16.239765
+
+339 epochs executed 
+
+weights : -47.728420
+weights : -35.567768
+weights : -40.350357
+weights : -19.221531
+
+340 epochs executed 
+
+weights : -55.639202
+weights : -36.231979
+weights : -32.614861
+weights : -11.452853
+
+341 epochs executed 
+
+weights : -49.901302
+weights : -39.994202
+weights : -37.814190
+weights : -13.606170
+
+342 epochs executed 
+
+weights : -49.686882
+weights : -32.789200
+weights : -37.776917
+weights : -20.019775
+
+343 epochs executed 
+
+weights : -51.609100
+weights : -40.905014
+weights : -27.449047
+weights : -19.436407
+
+344 epochs executed 
+
+weights : -50.169312
+weights : -35.613918
+weights : -37.761276
+weights : -11.309613
+
+345 epochs executed 
+
+weights : -48.598694
+weights : -36.247238
+weights : -31.542208
+weights : -25.408941
+
+346 epochs executed 
+
+weights : -54.936401
+weights : -33.027626
+weights : -30.191021
+weights : -23.796616
+
+347 epochs executed 
+
+weights : -56.205715
+weights : -35.467445
+weights : -34.971649
+weights : -11.038718
+
+348 epochs executed 
+
+weights : -52.175438
+weights : -38.958359
+weights : -39.043182
+weights : -15.474808
+
+349 epochs executed 
+
+weights : -54.925785
+weights : -38.118385
+weights : -37.422806
+weights : -18.959099
+
+350 epochs executed 
+
+weights : -55.449230
+weights : -37.613693
+weights : -39.351200
+weights : -15.506489
+
+351 epochs executed 
+
+weights : -56.931011
+weights : -39.641705
+weights : -38.342545
+weights : -11.113204
+
+352 epochs executed 
+
+weights : -50.495872
+weights : -37.051319
+weights : -42.527370
+weights : -20.750977
+
+353 epochs executed 
+
+weights : -51.900517
+weights : -46.636433
+weights : -32.915974
+weights : -18.817175
+
+354 epochs executed 
+
+weights : -49.502525
+weights : -38.949047
+weights : -40.149002
+weights : -16.111256
+
+355 epochs executed 
+
+weights : -50.810768
+weights : -39.062656
+weights : -37.921917
+weights : -18.193884
+
+356 epochs executed 
+
+weights : -49.770626
+weights : -35.834778
+weights : -35.992550
+weights : -23.398396
+
+357 epochs executed 
+
+weights : -53.125488
+weights : -40.310596
+weights : -28.876680
+weights : -16.997871
+
+358 epochs executed 
+
+weights : -57.605499
+weights : -35.294716
+weights : -26.068375
+weights : -21.704536
+
+359 epochs executed 
+
+weights : -51.437038
+weights : -32.269436
+weights : -33.024406
+weights : -23.401373
+
+360 epochs executed 
+
+weights : -48.945740
+weights : -36.023052
+weights : -35.628838
+weights : -20.714222
+
+361 epochs executed 
+
+weights : -48.916145
+weights : -34.702847
+weights : -38.085064
+weights : -18.901112
+
+362 epochs executed 
+
+weights : -49.080761
+weights : -36.222042
+weights : -34.798889
+weights : -18.876001
+
+363 epochs executed 
+
+weights : -47.349716
+weights : -36.273865
+weights : -37.663998
+weights : -16.465141
+
+364 epochs executed 
+
+weights : -45.746128
+weights : -45.031181
+weights : -24.920023
+weights : -23.259817
+
+365 epochs executed 
+
+weights : -45.151070
+weights : -37.507301
+weights : -31.181038
+weights : -18.908737
+
+366 epochs executed 
+
+weights : -46.516922
+weights : -29.408123
+weights : -38.208435
+weights : -13.194333
+
+367 epochs executed 
+
+weights : -50.988541
+weights : -30.438549
+weights : -31.889536
+weights : -15.415734
+
+368 epochs executed 
+
+weights : -43.342533
+weights : -43.551769
+weights : -30.786264
+weights : -5.694051
+
+369 epochs executed 
+
+weights : -50.915440
+weights : -38.068367
+weights : -34.023647
+weights : -10.058630
+
+370 epochs executed 
+
+weights : -51.200512
+weights : -35.074192
+weights : -35.008278
+weights : -17.599001
+
+371 epochs executed 
+
+weights : -51.434921
+weights : -31.481789
+weights : -35.122314
+weights : -18.712648
+
+372 epochs executed 
+
+weights : -47.987637
+weights : -35.939114
+weights : -32.978146
+weights : -18.755186
+
+373 epochs executed 
+
+weights : -50.035183
+weights : -34.461723
+weights : -34.477997
+weights : -19.772659
+
+374 epochs executed 
+
+weights : -46.909214
+weights : -33.416817
+weights : -38.019028
+weights : -17.271164
+
+375 epochs executed 
+
+weights : -45.491573
+weights : -33.462334
+weights : -35.783459
+weights : -18.541107
+
+376 epochs executed 
+
+weights : -40.525467
+weights : -33.408546
+weights : -37.461487
+weights : -17.578819
+
+377 epochs executed 
+
+weights : -41.508091
+weights : -35.570961
+weights : -30.859119
+weights : -21.033772
+
+378 epochs executed 
+
+weights : -42.608166
+weights : -38.875778
+weights : -33.793846
+weights : -16.531387
+
+379 epochs executed 
+
+weights : -49.637592
+weights : -28.357563
+weights : -34.062122
+weights : -23.535036
+
+380 epochs executed 
+
+weights : -44.429913
+weights : -32.487965
+weights : -37.320557
+weights : -23.451149
+
+381 epochs executed 
+
+weights : -49.096386
+weights : -34.757977
+weights : -36.439365
+weights : -16.343643
+
+382 epochs executed 
+
+weights : -48.634365
+weights : -37.460396
+weights : -28.433002
+weights : -20.884405
+
+383 epochs executed 
+
+weights : -49.725914
+weights : -36.090714
+weights : -33.769787
+weights : -20.089079
+
+384 epochs executed 
+
+weights : -45.012344
+weights : -35.229832
+weights : -38.802109
+weights : -14.062264
+
+385 epochs executed 
+
+weights : -52.590031
+weights : -32.477955
+weights : -33.707420
+weights : -23.950922
+
+386 epochs executed 
+
+weights : -52.170769
+weights : -39.558979
+weights : -31.321945
+weights : -19.292139
+
+387 epochs executed 
+
+weights : -53.121494
+weights : -42.631901
+weights : -30.437336
+weights : -13.319919
+
+388 epochs executed 
+
+weights : -49.410564
+weights : -43.486725
+weights : -36.533958
+weights : -11.411170
+
+389 epochs executed 
+
+weights : -52.412651
+weights : -47.724644
+weights : -25.841963
+weights : -19.602186
+
+390 epochs executed 
+
+weights : -48.699856
+weights : -39.195061
+weights : -37.139294
+weights : -18.321503
+
+391 epochs executed 
+
+weights : -45.187695
+weights : -38.473057
+weights : -42.614815
+weights : -20.418673
+
+392 epochs executed 
+
+weights : -53.909706
+weights : -31.828554
+weights : -37.664433
+weights : -15.300317
+
+393 epochs executed 
+
+weights : -53.533123
+weights : -35.905182
+weights : -31.647457
+weights : -21.410860
+
+394 epochs executed 
+
+weights : -48.655773
+weights : -40.619095
+weights : -35.238483
+weights : -18.455063
+
+395 epochs executed 
+
+weights : -50.183552
+weights : -33.351707
+weights : -38.431210
+weights : -17.082079
+
+396 epochs executed 
+
+weights : -51.796562
+weights : -34.450630
+weights : -38.423016
+weights : -12.781084
+
+397 epochs executed 
+
+weights : -53.670006
+weights : -42.891220
+weights : -27.697412
+weights : -19.074387
+
+398 epochs executed 
+
+weights : -54.148666
+weights : -36.729034
+weights : -39.865414
+weights : -13.725008
+
+399 epochs executed 
+
+weights : -50.486237
+weights : -34.736351
+weights : -39.780041
+weights : -15.836353
+
+400 epochs executed 
+
+weights : -51.701309
+weights : -37.325069
+weights : -40.623772
+weights : -20.454689
+
+401 epochs executed 
+
+weights : -48.381989
+weights : -41.832069
+weights : -37.179005
+weights : -21.560963
+
+402 epochs executed 
+
+weights : -48.944607
+weights : -36.344364
+weights : -39.110638
+weights : -20.687952
+
+403 epochs executed 
+
+weights : -50.148273
+weights : -38.370174
+weights : -38.423466
+weights : -9.028270
+
+404 epochs executed 
+
+weights : -50.455772
+weights : -31.268496
+weights : -36.545597
+weights : -15.227143
+
+405 epochs executed 
+
+weights : -45.813751
+weights : -27.829411
+weights : -38.916527
+weights : -21.198914
+
+406 epochs executed 
+
+weights : -44.759399
+weights : -37.784817
+weights : -41.335632
+weights : -8.271531
+
+407 epochs executed 
+
+weights : -47.923409
+weights : -41.846992
+weights : -28.251167
+weights : -21.773932
+
+408 epochs executed 
+
+weights : -50.351418
+weights : -36.307613
+weights : -32.749065
+weights : -22.609177
+
+409 epochs executed 
+
+weights : -51.979607
+weights : -29.688129
+weights : -40.135754
+weights : -16.242659
+
+410 epochs executed 
+
+weights : -53.861992
+weights : -37.251522
+weights : -35.347176
+weights : -18.041206
+
+411 epochs executed 
+
+weights : -51.714058
+weights : -35.180340
+weights : -40.853767
+weights : -15.988360
+
+412 epochs executed 
+
+weights : -52.121159
+weights : -37.094437
+weights : -35.541500
+weights : -26.383709
+
+413 epochs executed 
+
+weights : -52.441715
+weights : -39.766060
+weights : -36.950630
+weights : -21.155096
+
+414 epochs executed 
+
+weights : -52.003582
+weights : -33.527260
+weights : -41.357159
+weights : -19.922100
+
+415 epochs executed 
+
+weights : -54.652611
+weights : -37.179375
+weights : -38.347794
+weights : -17.394655
+
+416 epochs executed 
+
+weights : -50.663143
+weights : -32.399471
+weights : -40.592125
+weights : -19.195704
+
+417 epochs executed 
+
+weights : -48.696648
+weights : -39.116585
+weights : -39.260948
+weights : -22.582214
+
+418 epochs executed 
+
+weights : -52.012470
+weights : -38.729698
+weights : -41.564644
+weights : -17.694126
+
+419 epochs executed 
+
+weights : -47.191742
+weights : -41.244015
+weights : -44.078369
+weights : -18.607706
+
+420 epochs executed 
+
+weights : -59.786793
+weights : -45.628830
+weights : -24.835854
+weights : -24.185919
+
+421 epochs executed 
+
+weights : -51.770458
+weights : -38.794197
+weights : -45.195541
+weights : -15.818090
+
+422 epochs executed 
+
+weights : -52.193932
+weights : -40.366806
+weights : -43.046867
+weights : -15.515278
+
+423 epochs executed 
+
+weights : -50.859795
+weights : -38.173420
+weights : -40.015602
+weights : -24.789690
+
+424 epochs executed 
+
+weights : -52.026970
+weights : -46.146442
+weights : -39.341331
+weights : -15.449993
+
+425 epochs executed 
+
+weights : -55.869221
+weights : -39.501961
+weights : -36.277149
+weights : -16.372675
+
+426 epochs executed 
+
+weights : -60.648815
+weights : -42.208481
+weights : -24.566769
+weights : -22.153078
+
+427 epochs executed 
+
+weights : -55.156170
+weights : -36.437397
+weights : -38.902092
+weights : -17.684669
+
+428 epochs executed 
+
+weights : -49.565506
+weights : -40.911396
+weights : -37.711517
+weights : -15.337562
+
+429 epochs executed 
+
+weights : -52.519623
+weights : -32.512215
+weights : -38.708714
+weights : -16.411507
+
+430 epochs executed 
+
+weights : -55.015049
+weights : -33.834610
+weights : -38.113609
+weights : -13.547855
+
+431 epochs executed 
+
+weights : -49.691620
+weights : -39.922626
+weights : -37.965534
+weights : -11.451448
+
+432 epochs executed 
+
+weights : -53.166470
+weights : -36.324207
+weights : -34.792156
+weights : -14.796517
+
+433 epochs executed 
+
+weights : -50.598110
+weights : -35.227722
+weights : -36.573479
+weights : -15.912743
+
+434 epochs executed 
+
+weights : -46.528767
+weights : -32.372238
+weights : -41.366806
+weights : -24.051342
+
+435 epochs executed 
+
+weights : -46.019115
+weights : -30.029757
+weights : -40.609440
+weights : -22.586523
+
+436 epochs executed 
+
+weights : -51.136856
+weights : -33.729790
+weights : -31.101761
+weights : -19.880775
+
+437 epochs executed 
+
+weights : -48.585716
+weights : -31.286015
+weights : -40.243984
+weights : -16.409414
+
+438 epochs executed 
+
+weights : -56.574024
+weights : -37.348732
+weights : -27.178722
+weights : -12.541182
+
+439 epochs executed 
+
+weights : -50.062256
+weights : -32.155048
+weights : -40.283054
+weights : -16.938372
+
+440 epochs executed 
+
+weights : -50.207607
+weights : -41.036472
+weights : -28.333279
+weights : -16.872253
+
+441 epochs executed 
+
+weights : -53.907661
+weights : -33.307758
+weights : -35.071911
+weights : -20.279406
+
+442 epochs executed 
+
+weights : -50.023373
+weights : -31.751778
+weights : -43.266739
+weights : -16.157328
+
+443 epochs executed 
+
+weights : -50.074280
+weights : -33.148598
+weights : -40.886765
+weights : -19.751925
+
+444 epochs executed 
+
+weights : -53.546047
+weights : -37.090511
+weights : -35.396984
+weights : -16.338387
+
+445 epochs executed 
+
+weights : -51.651543
+weights : -36.829727
+weights : -35.563313
+weights : -19.134275
+
+446 epochs executed 
+
+weights : -50.934589
+weights : -34.319748
+weights : -32.665634
+weights : -23.078413
+
+447 epochs executed 
+
+weights : -47.101238
+weights : -35.900742
+weights : -35.884258
+weights : -13.810596
+
+448 epochs executed 
+
+weights : -45.794266
+weights : -32.430637
+weights : -36.586788
+weights : -20.687971
+
+449 epochs executed 
+
+weights : -44.517578
+weights : -35.753933
+weights : -37.940823
+weights : -18.215342
+
+450 epochs executed 
+
+weights : -53.535324
+weights : -30.775129
+weights : -38.310116
+weights : -8.030513
+
+451 epochs executed 
+
+weights : -51.400795
+weights : -33.262577
+weights : -33.382847
+weights : -18.587191
+
+452 epochs executed 
+
+weights : -47.040112
+weights : -40.999577
+weights : -38.215988
+weights : -12.099075
+
+453 epochs executed 
+
+weights : -51.213631
+weights : -34.905697
+weights : -36.286587
+weights : -17.609955
+
+454 epochs executed 
+
+weights : -51.163082
+weights : -35.185120
+weights : -36.750782
+weights : -15.517098
+
+455 epochs executed 
+
+weights : -52.146847
+weights : -30.657541
+weights : -34.005512
+weights : -24.943134
+
+456 epochs executed 
+
+weights : -55.694344
+weights : -40.170177
+weights : -29.566135
+weights : -17.795034
+
+457 epochs executed 
+
+weights : -51.795212
+weights : -41.676594
+weights : -35.312473
+weights : -16.237978
+
+458 epochs executed 
+
+weights : -53.044353
+weights : -38.647083
+weights : -38.751400
+weights : -17.883316
+
+459 epochs executed 
+
+weights : -49.959694
+weights : -35.568199
+weights : -44.002026
+weights : -17.595087
+
+460 epochs executed 
+
+weights : -50.626122
+weights : -37.308617
+weights : -37.539551
+weights : -13.819953
+
+461 epochs executed 
+
+weights : -51.828373
+weights : -28.799732
+weights : -40.645184
+weights : -20.481802
+
+462 epochs executed 
+
+weights : -52.605808
+weights : -34.842049
+weights : -34.331806
+weights : -13.676979
+
+463 epochs executed 
+
+weights : -47.888657
+weights : -35.651070
+weights : -36.368534
+weights : -11.096210
+
+464 epochs executed 
+
+weights : -45.519932
+weights : -37.213387
+weights : -34.890961
+weights : -13.630500
+
+465 epochs executed 
+
+weights : -47.728794
+weights : -36.621456
+weights : -27.651100
+weights : -15.299705
+
+466 epochs executed 
+
+weights : -48.132626
+weights : -32.093948
+weights : -33.917007
+weights : -10.889678
+
+467 epochs executed 
+
+weights : -48.490952
+weights : -36.681561
+weights : -31.663334
+weights : -12.051495
+
+468 epochs executed 
+
+weights : -49.627007
+weights : -39.270275
+weights : -30.096462
+weights : -21.208921
+
+469 epochs executed 
+
+weights : -55.001671
+weights : -34.026596
+weights : -36.248672
+weights : -12.272670
+
+470 epochs executed 
+
+weights : -51.497761
+weights : -31.369913
+weights : -44.102665
+weights : -18.493599
+
+471 epochs executed 
+
+weights : -55.243935
+weights : -32.394135
+weights : -39.062195
+weights : -17.474413
+
+472 epochs executed 
+
+weights : -52.109859
+weights : -37.677147
+weights : -35.390118
+weights : -21.326349
+
+473 epochs executed 
+
+weights : -54.992493
+weights : -41.904861
+weights : -33.824017
+weights : -22.738298
+
+474 epochs executed 
+
+weights : -55.310349
+weights : -39.674065
+weights : -36.111744
+weights : -18.038519
+
+475 epochs executed 
+
+weights : -49.417377
+weights : -37.662979
+weights : -42.263371
+weights : -23.567581
+
+476 epochs executed 
+
+weights : -51.271057
+weights : -35.059780
+weights : -36.861900
+weights : -20.640265
+
+477 epochs executed 
+
+weights : -47.450142
+weights : -33.040337
+weights : -43.273022
+weights : -19.459377
+
+478 epochs executed 
+
+weights : -52.751396
+weights : -35.657955
+weights : -35.367020
+weights : -19.155666
+
+479 epochs executed 
+
+weights : -49.601662
+weights : -39.788280
+weights : -30.340954
+weights : -22.309771
+
+480 epochs executed 
+
+weights : -49.574444
+weights : -32.357491
+weights : -41.785145
+weights : -15.153469
+
+481 epochs executed 
+
+weights : -49.532566
+weights : -38.875713
+weights : -33.227974
+weights : -13.691272
+
+482 epochs executed 
+
+weights : -49.549820
+weights : -36.903641
+weights : -32.519901
+weights : -15.429647
+
+483 epochs executed 
+
+weights : -48.430679
+weights : -31.550558
+weights : -37.151527
+weights : -12.082924
+
+484 epochs executed 
+
+weights : -44.430134
+weights : -42.286282
+weights : -30.101055
+weights : -21.996923
+
+485 epochs executed 
+
+weights : -53.654709
+weights : -35.205105
+weights : -35.505646
+weights : -16.576777
+
+486 epochs executed 
+
+weights : -46.042858
+weights : -37.522923
+weights : -38.833969
+weights : -19.866278
+
+487 epochs executed 
+
+weights : -47.884686
+weights : -36.302025
+weights : -40.931599
+weights : -12.782857
+
+488 epochs executed 
+
+weights : -50.279503
+weights : -30.394447
+weights : -40.844593
+weights : -12.518908
+
+489 epochs executed 
+
+weights : -48.390530
+weights : -38.963367
+weights : -33.618614
+weights : -13.034240
+
+490 epochs executed 
+
+weights : -51.189598
+weights : -35.458183
+weights : -30.889906
+weights : -19.746521
+
+491 epochs executed 
+
+weights : -48.679253
+weights : -35.195507
+weights : -34.635532
+weights : -18.254147
+
+492 epochs executed 
+
+weights : -48.722385
+weights : -35.334126
+weights : -38.692657
+weights : -19.098824
+
+493 epochs executed 
+
+weights : -50.421844
+weights : -35.623840
+weights : -37.107788
+weights : -11.607635
+
+494 epochs executed 
+
+weights : -48.690151
+weights : -39.607254
+weights : -34.114620
+weights : -15.993134
+
+495 epochs executed 
+
+weights : -51.895176
+weights : -36.825974
+weights : -35.765446
+weights : -17.128170
+
+496 epochs executed 
+
+weights : -57.758755
+weights : -30.032490
+weights : -30.402355
+weights : -26.935547
+
+497 epochs executed 
+
+weights : -52.287392
+weights : -35.768608
+weights : -35.578796
+weights : -17.705296
+
+498 epochs executed 
+
+weights : -52.164558
+weights : -40.807392
+weights : -34.562992
+weights : -17.941839
+
+499 epochs executed 
+
+weights : -52.113285
+weights : -35.261707
+weights : -36.395824
+weights : -19.773048
+
+500 epochs executed 
+
+weights : -49.738285
+weights : -34.092720
+weights : -36.079453
+weights : -21.148336
+
+501 epochs executed 
+
+weights : -50.288467
+weights : -39.332043
+weights : -30.290983
+weights : -14.144699
+
+502 epochs executed 
+
+weights : -49.081097
+weights : -37.221558
+weights : -36.135773
+weights : -13.929880
+
+503 epochs executed 
+
+weights : -55.159142
+weights : -33.865276
+weights : -35.485554
+weights : -11.671865
+
+504 epochs executed 
+
+weights : -48.779247
+weights : -33.559181
+weights : -37.145481
+weights : -17.714334
+
+505 epochs executed 
+
+weights : -51.629139
+weights : -33.652596
+weights : -33.476074
+weights : -18.775894
+
+506 epochs executed 
+
+weights : -51.881004
+weights : -39.781818
+weights : -32.713001
+weights : -11.438690
+
+507 epochs executed 
+
+weights : -47.246643
+weights : -34.225822
+weights : -37.604538
+weights : -14.853150
+
+508 epochs executed 
+
+weights : -47.327713
+weights : -34.892036
+weights : -33.364372
+weights : -13.855933
+
+509 epochs executed 
+
+weights : -45.147980
+weights : -38.217354
+weights : -24.110804
+weights : -20.340605
+
+510 epochs executed 
+
+weights : -46.748219
+weights : -30.109892
+weights : -33.779541
+weights : -16.224909
+
+511 epochs executed 
+
+weights : -38.939594
+weights : -39.740387
+weights : -37.177372
+weights : -14.748761
+
+512 epochs executed 
+
+weights : -43.594429
+weights : -36.053074
+weights : -32.464882
+weights : -16.117161
+
+513 epochs executed 
+
+weights : -46.041061
+weights : -39.014278
+weights : -29.425198
+weights : -16.257999
+
+514 epochs executed 
+
+weights : -51.339336
+weights : -36.928440
+weights : -32.473076
+weights : -14.382104
+
+515 epochs executed 
+
+weights : -45.092506
+weights : -35.780060
+weights : -34.636902
+weights : -17.359947
+
+516 epochs executed 
+
+weights : -44.436222
+weights : -36.222954
+weights : -33.372128
+weights : -16.067509
+
+517 epochs executed 
+
+weights : -43.877216
+weights : -37.932381
+weights : -32.711559
+weights : -15.298275
+
+518 epochs executed 
+
+weights : -49.475780
+weights : -28.167500
+weights : -34.651577
+weights : -16.861862
+
+519 epochs executed 
+
+weights : -44.915691
+weights : -35.859222
+weights : -35.664806
+weights : -17.212132
+
+520 epochs executed 
+
+weights : -50.389637
+weights : -38.615379
+weights : -25.116926
+weights : -17.237310
+
+521 epochs executed 
+
+weights : -51.369766
+weights : -34.665272
+weights : -34.804031
+weights : -18.941442
+
+522 epochs executed 
+
+weights : -47.844288
+weights : -42.952690
+weights : -28.623766
+weights : -16.393034
+
+523 epochs executed 
+
+weights : -45.707523
+weights : -37.384270
+weights : -40.484657
+weights : -17.329824
+
+524 epochs executed 
+
+weights : -49.479076
+weights : -37.183571
+weights : -36.418980
+weights : -18.219753
+
+525 epochs executed 
+
+weights : -50.102844
+weights : -28.428492
+weights : -44.332504
+weights : -26.515623
+
+526 epochs executed 
+
+weights : -51.627758
+weights : -40.811211
+weights : -30.829922
+weights : -24.821459
+
+527 epochs executed 
+
+weights : -45.042767
+weights : -31.286427
+weights : -46.186352
+weights : -23.910166
+
+528 epochs executed 
+
+weights : -54.981758
+weights : -36.968437
+weights : -37.534256
+weights : -11.549170
+
+529 epochs executed 
+
+weights : -52.571465
+weights : -39.039951
+weights : -41.591976
+weights : -13.335670
+
+530 epochs executed 
+
+weights : -53.559177
+weights : -38.226768
+weights : -38.627705
+weights : -14.801773
+
+531 epochs executed 
+
+weights : -52.476959
+weights : -32.372784
+weights : -40.221336
+weights : -19.698143
+
+532 epochs executed 
+
+weights : -54.857452
+weights : -40.896297
+weights : -27.128466
+weights : -22.070375
+
+533 epochs executed 
+
+weights : -49.079502
+weights : -35.154087
+weights : -37.161194
+weights : -20.050043
+
+534 epochs executed 
+
+weights : -47.091724
+weights : -34.440304
+weights : -39.512123
+weights : -18.775766
+
+535 epochs executed 
+
+weights : -46.875961
+weights : -37.417885
+weights : -38.233215
+weights : -14.254937
+
+536 epochs executed 
+
+weights : -48.091381
+weights : -38.986702
+weights : -31.636211
+weights : -18.676729
+
+537 epochs executed 
+
+weights : -49.274902
+weights : -39.988216
+weights : -39.383720
+weights : -10.623438
+
+538 epochs executed 
+
+weights : -47.969566
+weights : -42.668133
+weights : -36.489143
+weights : -16.419718
+
+539 epochs executed 
+
+weights : -50.962883
+weights : -42.219151
+weights : -35.766071
+weights : -18.927258
+
+540 epochs executed 
+
+weights : -55.934696
+weights : -46.324650
+weights : -29.387585
+weights : -20.142145
+
+541 epochs executed 
+
+weights : -55.040237
+weights : -44.756069
+weights : -31.292124
+weights : -22.895718
+
+542 epochs executed 
+
+weights : -50.950794
+weights : -37.768162
+weights : -42.962048
+weights : -17.178265
+
+543 epochs executed 
+
+weights : -54.680408
+weights : -43.297382
+weights : -35.646942
+weights : -20.894051
+
+544 epochs executed 
+
+weights : -54.232464
+weights : -40.224575
+weights : -38.731167
+weights : -19.914963
+
+545 epochs executed 
+
+weights : -51.863285
+weights : -37.153992
+weights : -41.901791
+weights : -16.947073
+
+546 epochs executed 
+
+weights : -52.633282
+weights : -36.738216
+weights : -42.757431
+weights : -15.077174
+
+547 epochs executed 
+
+weights : -55.106224
+weights : -29.667431
+weights : -45.932335
+weights : -25.327450
+
+548 epochs executed 
+
+weights : -58.566792
+weights : -37.582455
+weights : -34.478832
+weights : -22.811811
+
+549 epochs executed 
+
+weights : -51.501644
+weights : -36.065769
+weights : -42.026363
+weights : -22.079205
+
+550 epochs executed 
+
+weights : -47.254272
+weights : -34.849083
+weights : -44.943390
+weights : -18.216524
+
+551 epochs executed 
+
+weights : -47.806564
+weights : -39.028992
+weights : -35.004520
+weights : -20.530994
+
+552 epochs executed 
+
+weights : -46.293163
+weights : -30.642191
+weights : -46.183846
+weights : -13.123090
+
+553 epochs executed 
+
+weights : -53.862431
+weights : -33.750290
+weights : -33.849800
+weights : -15.825985
+
+554 epochs executed 
+
+weights : -48.192101
+weights : -32.649509
+weights : -39.932331
+weights : -12.046948
+
+555 epochs executed 
+
+weights : -48.407356
+weights : -35.370636
+weights : -38.613663
+weights : -12.869501
+
+556 epochs executed 
+
+weights : -44.157768
+weights : -38.578053
+weights : -31.535992
+weights : -21.589584
+
+557 epochs executed 
+
+weights : -41.221828
+weights : -35.097565
+weights : -41.298611
+weights : -18.821779
+
+558 epochs executed 
+
+weights : -45.579731
+weights : -34.702282
+weights : -41.236629
+weights : -18.501635
+
+559 epochs executed 
+
+weights : -54.733112
+weights : -35.546494
+weights : -34.335545
+weights : -16.033245
+
+560 epochs executed 
+
+weights : -56.850163
+weights : -35.890213
+weights : -35.125500
+weights : -14.922014
+
+561 epochs executed 
+
+weights : -50.574047
+weights : -30.926003
+weights : -43.856239
+weights : -15.005820
+
+562 epochs executed 
+
+weights : -57.078667
+weights : -34.673519
+weights : -31.952940
+weights : -16.325523
+
+563 epochs executed 
+
+weights : -54.007370
+weights : -30.317833
+weights : -38.668671
+weights : -24.396362
+
+564 epochs executed 
+
+weights : -48.171635
+weights : -39.418537
+weights : -41.037598
+weights : -11.908291
+
+565 epochs executed 
+
+weights : -47.066875
+weights : -43.629421
+weights : -35.719532
+weights : -18.598644
+
+566 epochs executed 
+
+weights : -52.033371
+weights : -34.715046
+weights : -35.358223
+weights : -22.284983
+
+567 epochs executed 
+
+weights : -52.107380
+weights : -38.497871
+weights : -38.076740
+weights : -21.645519
+
+568 epochs executed 
+
+weights : -53.929310
+weights : -45.123791
+weights : -26.149067
+weights : -18.117758
+
+569 epochs executed 
+
+weights : -55.565792
+weights : -42.829006
+weights : -32.493694
+weights : -13.989651
+
+570 epochs executed 
+
+weights : -55.774685
+weights : -39.718826
+weights : -39.498421
+weights : -13.000532
+
+571 epochs executed 
+
+weights : -53.792976
+weights : -38.955441
+weights : -42.876953
+weights : -13.268934
+
+572 epochs executed 
+
+weights : -52.909866
+weights : -39.634254
+weights : -39.938377
+weights : -13.559716
+
+573 epochs executed 
+
+weights : -52.324379
+weights : -46.433880
+weights : -31.510607
+weights : -18.904322
+
+574 epochs executed 
+
+weights : -55.309643
+weights : -37.695396
+weights : -31.074305
+weights : -19.691248
+
+575 epochs executed 
+
+weights : -52.485699
+weights : -41.318710
+weights : -29.762428
+weights : -20.059278
+
+576 epochs executed 
+
+weights : -49.707947
+weights : -36.654522
+weights : -36.482357
+weights : -17.229324
+
+577 epochs executed 
+
+weights : -58.094688
+weights : -35.506134
+weights : -38.988968
+weights : -16.115784
+
+578 epochs executed 
+
+weights : -55.488827
+weights : -44.101952
+weights : -30.935692
+weights : -20.776304
+
+579 epochs executed 
+
+weights : -51.514477
+weights : -40.095932
+weights : -37.652027
+weights : -20.208536
+
+580 epochs executed 
+
+weights : -53.727867
+weights : -41.726448
+weights : -34.758259
+weights : -18.397642
+
+581 epochs executed 
+
+weights : -59.573048
+weights : -42.465366
+weights : -28.944504
+weights : -22.578957
+
+582 epochs executed 
+
+weights : -56.880234
+weights : -43.729877
+weights : -37.153820
+weights : -13.817206
+
+583 epochs executed 
+
+weights : -50.827972
+weights : -36.684093
+weights : -46.121346
+weights : -21.438225
+
+584 epochs executed 
+
+weights : -47.250050
+weights : -37.888508
+weights : -45.036076
+weights : -18.670826
+
+585 epochs executed 
+
+weights : -53.570213
+weights : -46.420105
+weights : -30.989899
+weights : -22.288309
+
+586 epochs executed 
+
+weights : -50.663486
+weights : -41.666828
+weights : -36.164021
+weights : -17.507135
+
+587 epochs executed 
+
+weights : -55.894848
+weights : -35.107140
+weights : -33.077545
+weights : -16.881880
+
+588 epochs executed 
+
+weights : -49.827488
+weights : -36.555656
+weights : -39.922874
+weights : -19.558897
+
+589 epochs executed 
+
+weights : -50.434921
+weights : -38.722366
+weights : -38.467693
+weights : -26.098717
+
+590 epochs executed 
+
+weights : -53.171963
+weights : -39.034782
+weights : -38.032223
+weights : -17.457539
+
+591 epochs executed 
+
+weights : -47.315544
+weights : -44.551701
+weights : -35.164948
+weights : -26.842108
+
+592 epochs executed 
+
+weights : -54.005230
+weights : -45.704327
+weights : -30.207569
+weights : -18.275150
+
+593 epochs executed 
+
+weights : -50.351040
+weights : -33.127243
+weights : -39.158302
+weights : -23.878372
+
+594 epochs executed 
+
+weights : -50.699959
+weights : -42.550758
+weights : -33.325333
+weights : -24.763973
+
+595 epochs executed 
+
+weights : -53.937225
+weights : -31.416172
+weights : -38.527042
+weights : -26.300938
+
+596 epochs executed 
+
+weights : -51.776196
+weights : -35.155487
+weights : -41.436668
+weights : -17.543440
+
+597 epochs executed 
+
+weights : -52.907726
+weights : -37.880882
+weights : -39.174286
+weights : -18.840347
+
+598 epochs executed 
+
+weights : -52.567436
+weights : -38.553501
+weights : -41.593113
+weights : -17.552542
+
+599 epochs executed 
+
+weights : -50.884060
+weights : -41.792122
+weights : -37.662838
+weights : -19.944157
+
+600 epochs executed 
+
+weights : -54.153191
+weights : -38.936600
+weights : -38.525642
+weights : -15.565929
+
+601 epochs executed 
+
+weights : -46.828873
+weights : -43.048317
+weights : -43.706272
+weights : -14.585634
+
+602 epochs executed 
+
+weights : -54.475849
+weights : -37.060009
+weights : -37.264862
+weights : -21.290209
+
+603 epochs executed 
+
+weights : -56.183308
+weights : -38.850025
+weights : -33.594490
+weights : -18.449112
+
+604 epochs executed 
+
+weights : -60.211472
+weights : -32.998249
+weights : -37.544910
+weights : -17.172705
+
+605 epochs executed 
+
+weights : -52.776508
+weights : -37.585869
+weights : -36.736145
+weights : -20.107080
+
+606 epochs executed 
+
+weights : -51.768482
+weights : -40.685799
+weights : -37.683567
+weights : -23.119425
+
+607 epochs executed 
+
+weights : -51.152950
+weights : -41.422482
+weights : -37.210300
+weights : -20.643120
+
+608 epochs executed 
+
+weights : -55.992321
+weights : -34.956078
+weights : -39.594696
+weights : -20.429251
+
+609 epochs executed 
+
+weights : -54.228291
+weights : -35.653492
+weights : -34.305420
+weights : -19.062654
+
+610 epochs executed 
+
+weights : -52.733654
+weights : -29.420906
+weights : -39.405266
+weights : -24.580561
+
+611 epochs executed 
+
+weights : -49.149937
+weights : -40.667423
+weights : -40.178890
+weights : -14.939392
+
+612 epochs executed 
+
+weights : -51.385830
+weights : -27.986937
+weights : -45.229183
+weights : -18.540922
+
+613 epochs executed 
+
+weights : -53.348263
+weights : -36.789711
+weights : -37.744614
+weights : -22.238653
+
+614 epochs executed 
+
+weights : -51.972221
+weights : -37.764336
+weights : -34.916546
+weights : -20.332363
+
+615 epochs executed 
+
+weights : -51.728252
+weights : -41.582253
+weights : -30.515074
+weights : -19.503746
+
+616 epochs executed 
+
+weights : -54.589378
+weights : -33.191467
+weights : -34.060276
+weights : -18.171072
+
+617 epochs executed 
+
+weights : -51.573288
+weights : -32.554295
+weights : -38.436802
+weights : -16.290283
+
+618 epochs executed 
+
+weights : -50.630692
+weights : -38.217907
+weights : -34.089134
+weights : -16.133255
+
+619 epochs executed 
+
+weights : -50.211807
+weights : -37.148018
+weights : -33.112965
+weights : -18.184809
+
+620 epochs executed 
+
+weights : -46.578060
+weights : -37.868137
+weights : -33.998295
+weights : -18.755407
+
+621 epochs executed 
+
+weights : -47.448505
+weights : -28.525352
+weights : -34.884624
+weights : -25.131523
+
+622 epochs executed 
+
+weights : -43.514378
+weights : -41.297043
+weights : -35.295567
+weights : -14.722814
+
+623 epochs executed 
+
+weights : -49.504158
+weights : -36.678345
+weights : -32.522381
+weights : -16.326061
+
+624 epochs executed 
+
+weights : -46.732765
+weights : -40.970062
+weights : -29.142010
+weights : -20.637886
+
+625 epochs executed 
+
+weights : -46.321507
+weights : -35.399559
+weights : -37.541737
+weights : -14.127317
+
+626 epochs executed 
+
+weights : -51.359653
+weights : -33.100746
+weights : -33.982868
+weights : -25.594511
+
+627 epochs executed 
+
+weights : -50.032906
+weights : -33.829056
+weights : -40.313099
+weights : -17.030535
+
+628 epochs executed 
+
+weights : -49.107857
+weights : -38.996071
+weights : -39.754623
+weights : -17.486042
+
+629 epochs executed 
+
+weights : -48.549831
+weights : -34.189190
+weights : -40.206650
+weights : -14.973409
+
+630 epochs executed 
+
+weights : -49.581360
+weights : -38.418705
+weights : -33.867172
+weights : -12.429582
+
+631 epochs executed 
+
+weights : -49.627293
+weights : -41.094402
+weights : -30.012997
+weights : -19.725861
+
+632 epochs executed 
+
+weights : -45.637009
+weights : -34.596924
+weights : -32.957222
+weights : -21.954050
+
+633 epochs executed 
+
+weights : -43.945736
+weights : -39.637718
+weights : -32.124451
+weights : -18.210711
+
+634 epochs executed 
+
+weights : -47.827950
+weights : -36.782143
+weights : -31.595243
+weights : -18.231188
+
+635 epochs executed 
+
+weights : -50.847103
+weights : -32.862976
+weights : -28.560158
+weights : -18.290089
+
+636 epochs executed 
+
+weights : -51.466293
+weights : -31.594494
+weights : -28.706392
+weights : -15.649385
+
+637 epochs executed 
+
+weights : -45.533073
+weights : -42.048813
+weights : -30.086117
+weights : -18.506868
+
+638 epochs executed 
+
+weights : -50.141357
+weights : -33.628937
+weights : -36.920738
+weights : -12.143289
+
+639 epochs executed 
+
+weights : -48.958229
+weights : -30.278854
+weights : -38.678165
+weights : -16.586641
+
+640 epochs executed 
+
+weights : -48.366936
+weights : -38.514679
+weights : -33.807793
+weights : -13.193074
+
+641 epochs executed 
+
+weights : -51.359715
+weights : -39.359097
+weights : -24.815596
+weights : -19.222593
+
+642 epochs executed 
+
+weights : -48.261921
+weights : -36.486889
+weights : -29.797825
+weights : -18.534107
+
+643 epochs executed 
+
+weights : -50.921135
+weights : -29.668674
+weights : -33.965591
+weights : -17.515455
+
+644 epochs executed 
+
+weights : -49.029770
+weights : -31.086197
+weights : -33.168823
+weights : -16.847103
+
+645 epochs executed 
+
+weights : -45.808929
+weights : -41.478420
+weights : -31.708050
+weights : -16.148575
+
+646 epochs executed 
+
+weights : -52.093323
+weights : -36.903343
+weights : -33.667923
+weights : -13.078464
+
+647 epochs executed 
+
+weights : -47.780258
+weights : -34.172146
+weights : -38.052345
+weights : -10.122632
+
+648 epochs executed 
+
+weights : -49.986847
+weights : -39.721958
+weights : -25.370970
+weights : -18.877539
+
+649 epochs executed 
+
+weights : -50.144817
+weights : -31.457382
+weights : -33.186562
+weights : -17.311428
+
+650 epochs executed 
+
+weights : -45.976955
+weights : -33.921925
+weights : -34.162598
+weights : -15.842712
+
+651 epochs executed 
+
+weights : -46.229847
+weights : -31.502941
+weights : -33.252625
+weights : -19.777784
+
+652 epochs executed 
+
+weights : -47.379726
+weights : -32.074238
+weights : -38.453938
+weights : -15.784657
+
+653 epochs executed 
+
+weights : -45.358406
+weights : -32.775658
+weights : -38.163269
+weights : -16.852234
+
+654 epochs executed 
+
+weights : -46.636852
+weights : -28.715559
+weights : -36.347000
+weights : -17.272209
+
+655 epochs executed 
+
+weights : -47.597878
+weights : -36.852085
+weights : -29.728029
+weights : -18.158266
+
+656 epochs executed 
+
+weights : -45.628025
+weights : -28.734385
+weights : -37.383858
+weights : -19.772175
+
+657 epochs executed 
+
+weights : -46.430984
+weights : -36.347206
+weights : -29.081692
+weights : -16.445599
+
+658 epochs executed 
+
+weights : -45.304195
+weights : -31.099525
+weights : -34.164524
+weights : -20.661417
+
+659 epochs executed 
+
+weights : -47.623753
+weights : -35.331242
+weights : -34.646046
+weights : -13.200349
+
+660 epochs executed 
+
+weights : -51.379299
+weights : -34.840832
+weights : -26.195166
+weights : -17.129057
+
+661 epochs executed 
+
+weights : -44.269741
+weights : -29.831255
+weights : -39.075294
+weights : -15.295669
+
+662 epochs executed 
+
+weights : -43.725956
+weights : -33.566376
+weights : -35.189529
+weights : -16.394321
+
+663 epochs executed 
+
+weights : -47.643364
+weights : -39.066544
+weights : -30.022844
+weights : -10.870490
+
+664 epochs executed 
+
+weights : -48.775326
+weights : -34.344765
+weights : -38.836750
+weights : -12.643998
+
+665 epochs executed 
+
+weights : -48.626987
+weights : -35.979481
+weights : -35.272579
+weights : -25.528753
+
+666 epochs executed 
+
+weights : -52.040092
+weights : -32.877670
+weights : -39.368610
+weights : -15.666084
+
+667 epochs executed 
+
+weights : -49.896557
+weights : -37.237759
+weights : -38.075752
+weights : -19.737034
+
+668 epochs executed 
+
+weights : -48.481396
+weights : -39.845161
+weights : -38.287678
+weights : -20.515280
+
+669 epochs executed 
+
+weights : -49.148193
+weights : -35.656982
+weights : -38.014408
+weights : -25.369766
+
+670 epochs executed 
+
+weights : -47.598297
+weights : -45.829498
+weights : -36.441940
+weights : -14.577065
+
+671 epochs executed 
+
+weights : -48.744030
+weights : -37.722111
+weights : -45.530956
+weights : -15.292736
+
+672 epochs executed 
+
+weights : -54.929104
+weights : -37.144737
+weights : -40.240074
+weights : -18.206339
+
+673 epochs executed 
+
+weights : -51.190781
+weights : -36.952358
+weights : -43.926296
+weights : -15.915289
+
+674 epochs executed 
+
+weights : -54.003784
+weights : -37.976677
+weights : -35.015324
+weights : -22.121105
+
+675 epochs executed 
+
+weights : -52.774837
+weights : -38.367897
+weights : -40.928638
+weights : -11.460396
+
+676 epochs executed 
+
+weights : -50.659786
+weights : -37.018810
+weights : -42.483559
+weights : -18.897587
+
+677 epochs executed 
+
+weights : -53.943089
+weights : -35.237328
+weights : -42.859459
+weights : -19.349607
+
+678 epochs executed 
+
+weights : -51.334328
+weights : -35.016045
+weights : -43.929680
+weights : -16.060160
+
+679 epochs executed 
+
+weights : -52.501774
+weights : -38.134556
+weights : -42.976608
+weights : -15.627704
+
+680 epochs executed 
+
+weights : -53.819214
+weights : -42.045467
+weights : -32.403137
+weights : -14.268839
+
+681 epochs executed 
+
+weights : -55.023102
+weights : -34.809280
+weights : -39.306728
+weights : -12.699208
+
+682 epochs executed 
+
+weights : -50.864777
+weights : -30.718494
+weights : -39.303757
+weights : -21.216558
+
+683 epochs executed 
+
+weights : -49.077019
+weights : -35.061909
+weights : -37.928085
+weights : -21.520210
+
+684 epochs executed 
+
+weights : -45.413078
+weights : -37.337925
+weights : -40.191315
+weights : -13.213076
+
+685 epochs executed 
+
+weights : -50.462067
+weights : -37.414646
+weights : -33.839806
+weights : -16.797346
+
+686 epochs executed 
+
+weights : -44.659981
+weights : -29.431549
+weights : -39.018131
+weights : -23.640219
+
+687 epochs executed 
+
+weights : -50.456646
+weights : -41.615467
+weights : -31.851183
+weights : -11.405475
+
+688 epochs executed 
+
+weights : -50.708221
+weights : -41.669376
+weights : -30.579117
+weights : -17.081938
+
+689 epochs executed 
+
+weights : -48.689102
+weights : -39.376591
+weights : -35.355446
+weights : -17.000210
+
+690 epochs executed 
+
+weights : -46.805099
+weights : -36.448605
+weights : -35.009972
+weights : -22.494072
+
+691 epochs executed 
+
+weights : -51.146461
+weights : -40.767223
+weights : -33.264896
+weights : -10.501695
+
+692 epochs executed 
+
+weights : -52.998341
+weights : -29.560146
+weights : -38.667049
+weights : -20.734694
+
+693 epochs executed 
+
+weights : -57.972240
+weights : -28.237938
+weights : -35.567757
+weights : -16.501265
+
+694 epochs executed 
+
+weights : -56.156120
+weights : -36.587433
+weights : -36.559784
+weights : -17.959194
+
+695 epochs executed 
+
+weights : -54.084610
+weights : -36.018448
+weights : -39.338306
+weights : -19.493465
+
+696 epochs executed 
+
+weights : -49.505653
+weights : -45.352966
+weights : -35.788231
+weights : -17.116129
+
+697 epochs executed 
+
+weights : -49.161377
+weights : -42.904980
+weights : -31.434263
+weights : -22.131866
+
+698 epochs executed 
+
+weights : -48.697182
+weights : -32.510880
+weights : -39.459492
+weights : -18.142857
+
+699 epochs executed 
+
+weights : -48.356533
+weights : -31.850798
+weights : -35.340725
+weights : -19.043110
+
+700 epochs executed 
+
+weights : -53.225075
+weights : -41.359318
+weights : -30.829914
+weights : -20.804970
+
+701 epochs executed 
+
+weights : -52.800480
+weights : -40.405632
+weights : -30.952843
+weights : -21.446205
+
+702 epochs executed 
+
+weights : -52.173210
+weights : -37.181648
+weights : -33.117668
+weights : -17.547386
+
+703 epochs executed 
+
+weights : -52.242882
+weights : -36.140976
+weights : -32.497593
+weights : -14.659662
+
+704 epochs executed 
+
+weights : -48.793491
+weights : -38.568295
+weights : -32.733627
+weights : -16.460779
+
+705 epochs executed 
+
+weights : -48.634068
+weights : -35.729420
+weights : -33.906456
+weights : -26.749466
+
+706 epochs executed 
+
+weights : -46.719845
+weights : -36.741337
+weights : -35.560581
+weights : -21.641586
+
+707 epochs executed 
+
+weights : -45.718609
+weights : -38.502422
+weights : -35.619038
+weights : -13.148866
+
+708 epochs executed 
+
+weights : -46.933193
+weights : -42.640938
+weights : -32.572163
+weights : -15.053823
+
+709 epochs executed 
+
+weights : -49.961040
+weights : -38.926552
+weights : -37.305199
+weights : -20.619989
+
+710 epochs executed 
+
+weights : -53.364056
+weights : -31.574369
+weights : -40.903824
+weights : -24.388792
+
+711 epochs executed 
+
+weights : -48.045769
+weights : -37.871281
+weights : -46.531155
+weights : -14.499899
+
+712 epochs executed 
+
+weights : -50.946980
+weights : -36.712494
+weights : -44.374382
+weights : -15.873925
+
+713 epochs executed 
+
+weights : -49.346928
+weights : -42.266605
+weights : -42.477589
+weights : -10.221631
+
+714 epochs executed 
+
+weights : -50.702713
+weights : -38.618530
+weights : -43.332916
+weights : -15.715012
+
+715 epochs executed 
+
+weights : -53.256474
+weights : -37.145351
+weights : -40.252632
+weights : -17.636772
+
+716 epochs executed 
+
+weights : -57.284290
+weights : -32.801868
+weights : -36.933346
+weights : -18.631384
+
+717 epochs executed 
+
+weights : -51.092339
+weights : -41.979183
+weights : -33.812176
+weights : -14.754452
+
+718 epochs executed 
+
+weights : -52.090858
+weights : -39.239399
+weights : -32.391811
+weights : -16.442263
+
+719 epochs executed 
+
+weights : -52.448444
+weights : -37.497108
+weights : -36.188343
+weights : -22.062843
+
+720 epochs executed 
+
+weights : -47.982162
+weights : -42.211025
+weights : -40.633472
+weights : -18.635479
+
+721 epochs executed 
+
+weights : -51.666908
+weights : -30.306623
+weights : -43.857296
+weights : -22.355465
+
+722 epochs executed 
+
+weights : -52.826946
+weights : -33.745739
+weights : -37.585526
+weights : -19.822002
+
+723 epochs executed 
+
+weights : -48.670975
+weights : -34.141060
+weights : -38.270756
+weights : -17.498964
+
+724 epochs executed 
+
+weights : -48.749680
+weights : -35.852379
+weights : -30.617678
+weights : -18.806585
+
+725 epochs executed 
+
+weights : -46.292469
+weights : -37.549370
+weights : -37.047729
+weights : -13.374214
+
+726 epochs executed 
+
+weights : -50.440990
+weights : -42.459686
+weights : -20.782356
+weights : -24.258482
+
+727 epochs executed 
+
+weights : -48.274525
+weights : -40.071766
+weights : -32.405350
+weights : -19.066950
+
+728 epochs executed 
+
+weights : -43.753944
+weights : -32.525078
+weights : -40.414379
+weights : -19.047829
+
+729 epochs executed 
+
+weights : -53.041988
+weights : -31.827869
+weights : -37.348358
+weights : -14.485211
+
+730 epochs executed 
+
+weights : -50.656788
+weights : -35.815487
+weights : -37.411484
+weights : -19.886982
+
+731 epochs executed 
+
+weights : -50.044201
+weights : -40.485996
+weights : -37.535717
+weights : -20.068153
+
+732 epochs executed 
+
+weights : -50.411137
+weights : -35.896511
+weights : -42.686810
+weights : -16.988621
+
+733 epochs executed 
+
+weights : -50.807838
+weights : -40.324821
+weights : -37.463936
+weights : -22.069071
+
+734 epochs executed 
+
+weights : -48.394470
+weights : -37.922340
+weights : -39.097164
+weights : -21.186035
+
+735 epochs executed 
+
+weights : -47.710400
+weights : -35.453857
+weights : -36.325588
+weights : -24.044815
+
+736 epochs executed 
+
+weights : -48.974140
+weights : -42.371521
+weights : -39.586876
+weights : -18.625717
+
+737 epochs executed 
+
+weights : -51.254517
+weights : -37.407333
+weights : -41.533081
+weights : -18.952753
+
+738 epochs executed 
+
+weights : -51.098808
+weights : -36.811455
+weights : -39.140110
+weights : -20.927540
+
+739 epochs executed 
+
+weights : -54.431892
+weights : -33.771667
+weights : -40.455326
+weights : -13.356589
+
+740 epochs executed 
+
+weights : -50.553303
+weights : -34.121490
+weights : -40.270050
+weights : -15.953817
+
+741 epochs executed 
+
+weights : -44.560310
+weights : -38.920109
+weights : -38.810383
+weights : -12.794600
+
+742 epochs executed 
+
+weights : -47.594563
+weights : -38.858223
+weights : -36.392979
+weights : -21.685329
+
+743 epochs executed 
+
+weights : -50.517017
+weights : -39.445843
+weights : -33.605511
+weights : -14.192575
+
+744 epochs executed 
+
+weights : -48.170208
+weights : -40.387463
+weights : -34.389233
+weights : -14.065297
+
+745 epochs executed 
+
+weights : -47.551392
+weights : -34.963882
+weights : -38.149162
+weights : -15.835694
+
+746 epochs executed 
+
+weights : -47.983692
+weights : -39.100391
+weights : -34.161770
+weights : -18.366112
+
+747 epochs executed 
+
+weights : -45.429882
+weights : -35.092308
+weights : -38.976395
+weights : -17.357691
+
+748 epochs executed 
+
+weights : -47.777565
+weights : -40.691631
+weights : -38.510330
+weights : -6.402770
+
+749 epochs executed 
+
+weights : -56.427681
+weights : -35.367462
+weights : -33.982147
+weights : -12.017676
+
+750 epochs executed 
+
+weights : -57.503864
+weights : -34.167294
+weights : -35.802975
+weights : -16.696386
+
+751 epochs executed 
+
+weights : -49.792702
+weights : -35.160709
+weights : -41.658203
+weights : -16.051676
+
+752 epochs executed 
+
+weights : -52.635612
+weights : -31.628323
+weights : -37.656239
+weights : -22.801477
+
+753 epochs executed 
+
+weights : -51.274414
+weights : -41.829922
+weights : -36.587437
+weights : -15.902085
+
+754 epochs executed 
+
+weights : -52.760185
+weights : -31.909842
+weights : -43.411163
+weights : -20.176552
+
+755 epochs executed 
+
+weights : -52.325108
+weights : -35.899445
+weights : -40.776787
+weights : -21.117844
+
+756 epochs executed 
+
+weights : -52.533230
+weights : -42.345333
+weights : -37.706425
+weights : -19.806665
+
+757 epochs executed 
+
+weights : -50.558277
+weights : -37.174248
+weights : -38.557457
+weights : -27.213858
+
+758 epochs executed 
+
+weights : -51.471210
+weights : -36.917915
+weights : -39.926888
+weights : -23.830103
+
+759 epochs executed 
+
+weights : -54.389523
+weights : -35.788025
+weights : -39.973442
+weights : -20.449718
+
+760 epochs executed 
+
+weights : -53.626656
+weights : -39.026348
+weights : -37.513676
+weights : -14.619430
+
+761 epochs executed 
+
+weights : -51.672314
+weights : -38.235863
+weights : -35.026104
+weights : -18.414059
+
+762 epochs executed 
+
+weights : -49.988289
+weights : -46.018459
+weights : -29.618639
+weights : -17.197582
+
+763 epochs executed 
+
+weights : -53.497932
+weights : -35.521156
+weights : -35.499203
+weights : -18.011251
+
+764 epochs executed 
+
+weights : -48.834927
+weights : -35.322575
+weights : -37.580730
+weights : -17.389637
+
+765 epochs executed 
+
+weights : -49.437325
+weights : -33.965370
+weights : -42.664478
+weights : -17.735216
+
+766 epochs executed 
+
+weights : -56.577766
+weights : -38.822079
+weights : -26.387072
+weights : -22.760887
+
+767 epochs executed 
+
+weights : -54.755680
+weights : -37.278500
+weights : -29.999796
+weights : -26.570143
+
+768 epochs executed 
+
+weights : -51.087448
+weights : -34.497395
+weights : -37.369621
+weights : -22.455856
+
+769 epochs executed 
+
+weights : -47.614864
+weights : -33.425381
+weights : -42.844421
+weights : -15.890635
+
+770 epochs executed 
+
+weights : -49.799404
+weights : -34.702209
+weights : -33.378250
+weights : -25.843296
+
+771 epochs executed 
+
+weights : -47.430244
+weights : -42.451630
+weights : -32.398472
+weights : -17.099298
+
+772 epochs executed 
+
+weights : -51.296234
+weights : -32.968132
+weights : -35.599380
+weights : -13.858223
+
+773 epochs executed 
+
+weights : -46.172955
+weights : -34.913151
+weights : -38.225212
+weights : -13.259365
+
+774 epochs executed 
+
+weights : -52.544743
+weights : -30.168375
+weights : -36.593330
+weights : -11.735777
+
+775 epochs executed 
+
+weights : -44.806442
+weights : -38.329693
+weights : -39.130463
+weights : -9.361823
+
+776 epochs executed 
+
+weights : -50.216755
+weights : -37.619907
+weights : -32.850353
+weights : -17.881449
+
+777 epochs executed 
+
+weights : -44.076542
+weights : -40.575031
+weights : -38.312180
+weights : -20.266954
+
+778 epochs executed 
+
+weights : -48.625755
+weights : -34.909458
+weights : -36.181313
+weights : -19.411119
+
+779 epochs executed 
+
+weights : -44.728561
+weights : -41.297455
+weights : -33.216240
+weights : -19.131649
+
+780 epochs executed 
+
+weights : -43.690922
+weights : -37.630669
+weights : -31.514669
+weights : -19.912943
+
+781 epochs executed 
+
+weights : -44.801441
+weights : -29.452993
+weights : -36.611801
+weights : -23.101048
+
+782 epochs executed 
+
+weights : -48.180660
+weights : -38.562004
+weights : -28.881905
+weights : -18.954760
+
+783 epochs executed 
+
+weights : -44.098362
+weights : -37.798424
+weights : -37.340244
+weights : -14.181820
+
+784 epochs executed 
+
+weights : -49.392502
+weights : -31.412743
+weights : -37.335892
+weights : -17.977264
+
+785 epochs executed 
+
+weights : -46.792278
+weights : -42.175152
+weights : -35.869938
+weights : -10.573281
+
+786 epochs executed 
+
+weights : -47.826874
+weights : -33.513172
+weights : -36.263649
+weights : -22.509613
+
+787 epochs executed 
+
+weights : -47.223347
+weights : -34.357365
+weights : -36.958122
+weights : -17.800714
+
+788 epochs executed 
+
+weights : -49.468796
+weights : -37.964073
+weights : -32.585552
+weights : -16.772129
+
+789 epochs executed 
+
+weights : -48.418320
+weights : -39.791245
+weights : -36.555687
+weights : -14.668848
+
+790 epochs executed 
+
+weights : -49.456066
+weights : -32.834457
+weights : -34.825287
+weights : -22.987160
+
+791 epochs executed 
+
+weights : -49.300117
+weights : -35.121132
+weights : -36.848156
+weights : -19.735260
+
+792 epochs executed 
+
+weights : -52.303940
+weights : -31.686249
+weights : -35.543072
+weights : -16.179977
+
+793 epochs executed 
+
+weights : -46.464279
+weights : -35.396564
+weights : -36.596996
+weights : -19.163290
+
+794 epochs executed 
+
+weights : -49.395470
+weights : -43.917789
+weights : -25.383427
+weights : -14.164791
+
+795 epochs executed 
+
+weights : -50.253033
+weights : -32.977608
+weights : -36.906750
+weights : -11.733091
+
+796 epochs executed 
+
+weights : -45.051907
+weights : -34.155125
+weights : -36.474678
+weights : -19.946234
+
+797 epochs executed 
+
+weights : -51.722389
+weights : -32.543110
+weights : -33.716423
+weights : -17.287045
+
+798 epochs executed 
+
+weights : -47.892529
+weights : -36.545223
+weights : -37.666653
+weights : -10.121848
+
+799 epochs executed 
+
+weights : -43.278934
+weights : -44.176842
+weights : -36.982082
+weights : -14.963506
+
+800 epochs executed 
+
+weights : -50.503014
+weights : -33.104183
+weights : -34.801720
+weights : -20.888306
+
+801 epochs executed 
+
+weights : -48.248905
+weights : -36.771008
+weights : -33.662224
+weights : -14.848465
+
+802 epochs executed 
+
+weights : -50.246212
+weights : -42.258949
+weights : -26.406454
+weights : -26.300926
+
+803 epochs executed 
+
+weights : -45.802921
+weights : -41.147575
+weights : -39.215187
+weights : -16.483049
+
+804 epochs executed 
+
+weights : -50.785389
+weights : -31.353697
+weights : -36.968410
+weights : -18.248772
+
+805 epochs executed 
+
+weights : -52.676308
+weights : -40.491623
+weights : -30.252043
+weights : -14.647328
+
+806 epochs executed 
+
+weights : -49.730637
+weights : -36.541336
+weights : -36.185966
+weights : -15.178582
+
+807 epochs executed 
+
+weights : -50.717983
+weights : -32.133865
+weights : -33.559795
+weights : -23.351156
+
+808 epochs executed 
+
+weights : -53.465668
+weights : -39.833786
+weights : -31.102102
+weights : -11.884586
+
+809 epochs executed 
+
+weights : -53.727413
+weights : -37.464684
+weights : -33.285397
+weights : -23.106382
+
+810 epochs executed 
+
+weights : -56.142162
+weights : -38.329700
+weights : -31.501392
+weights : -22.310061
+
+811 epochs executed 
+
+weights : -52.650429
+weights : -33.251820
+weights : -37.166019
+weights : -23.281301
+
+812 epochs executed 
+
+weights : -51.958515
+weights : -37.113041
+weights : -34.644440
+weights : -22.190073
+
+813 epochs executed 
+
+weights : -48.160294
+weights : -40.152935
+weights : -39.523270
+weights : -14.276484
+
+814 epochs executed 
+
+weights : -45.108479
+weights : -42.400253
+weights : -32.092495
+weights : -24.093040
+
+815 epochs executed 
+
+weights : -50.150002
+weights : -30.284555
+weights : -32.615929
+weights : -23.164001
+
+816 epochs executed 
+
+weights : -45.834015
+weights : -35.633671
+weights : -35.809658
+weights : -16.395744
+
+817 epochs executed 
+
+weights : -51.307495
+weights : -34.623966
+weights : -34.574284
+weights : -15.189612
+
+818 epochs executed 
+
+weights : -54.979034
+weights : -29.169273
+weights : -36.296806
+weights : -17.999708
+
+819 epochs executed 
+
+weights : -53.274265
+weights : -31.126865
+weights : -33.720947
+weights : -20.193451
+
+820 epochs executed 
+
+weights : -54.805210
+weights : -31.728985
+weights : -36.675571
+weights : -13.320461
+
+821 epochs executed 
+
+weights : -53.288662
+weights : -38.160404
+weights : -36.252998
+weights : -14.095847
+
+822 epochs executed 
+
+weights : -47.702625
+weights : -36.407898
+weights : -43.944225
+weights : -22.075344
+
+823 epochs executed 
+
+weights : -52.641609
+weights : -37.055710
+weights : -35.035542
+weights : -23.317410
+
+824 epochs executed 
+
+weights : -52.118458
+weights : -41.312222
+weights : -32.494370
+weights : -21.969622
+
+825 epochs executed 
+
+weights : -53.649654
+weights : -36.464054
+weights : -36.340103
+weights : -19.681833
+
+826 epochs executed 
+
+weights : -47.728119
+weights : -33.414074
+weights : -40.366226
+weights : -28.016550
+
+827 epochs executed 
+
+weights : -49.790813
+weights : -35.760498
+weights : -37.316956
+weights : -25.579319
+
+828 epochs executed 
+
+weights : -51.444973
+weights : -36.778519
+weights : -38.518703
+weights : -19.358070
+
+829 epochs executed 
+
+weights : -48.398071
+weights : -36.302635
+weights : -42.757526
+weights : -18.502329
+
+830 epochs executed 
+
+weights : -57.095581
+weights : -39.239044
+weights : -34.643074
+weights : -26.530657
+
+831 epochs executed 
+
+weights : -49.461697
+weights : -35.460461
+weights : -46.338104
+weights : -23.652470
+
+832 epochs executed 
+
+weights : -56.612965
+weights : -44.490692
+weights : -34.015427
+weights : -20.388565
+
+833 epochs executed 
+
+weights : -54.531307
+weights : -42.762905
+weights : -37.315453
+weights : -18.067219
+
+834 epochs executed 
+
+weights : -51.669315
+weights : -43.512119
+weights : -33.615776
+weights : -18.681740
+
+835 epochs executed 
+
+weights : -49.188526
+weights : -36.039932
+weights : -36.528305
+weights : -19.187536
+
+836 epochs executed 
+
+weights : -51.528732
+weights : -41.581551
+weights : -30.203234
+weights : -15.031756
+
+837 epochs executed 
+
+weights : -47.920635
+weights : -37.093372
+weights : -36.821163
+weights : -16.522078
+
+838 epochs executed 
+
+weights : -49.195293
+weights : -37.008488
+weights : -34.015175
+weights : -20.049904
+
+839 epochs executed 
+
+weights : -48.774841
+weights : -36.836807
+weights : -33.387203
+weights : -20.152355
+
+840 epochs executed 
+
+weights : -45.299927
+weights : -33.557125
+weights : -40.363808
+weights : -14.812953
+
+841 epochs executed 
+
+weights : -47.799896
+weights : -44.410637
+weights : -31.932837
+weights : -11.984584
+
+842 epochs executed 
+
+weights : -49.989948
+weights : -37.412453
+weights : -31.069136
+weights : -18.164440
+
+843 epochs executed 
+
+weights : -45.552990
+weights : -35.601776
+weights : -38.010071
+weights : -14.394432
+
+844 epochs executed 
+
+weights : -46.970219
+weights : -38.329178
+weights : -31.902397
+weights : -11.277409
+
+845 epochs executed 
+
+weights : -42.702576
+weights : -36.023994
+weights : -36.075333
+weights : -11.376021
+
+846 epochs executed 
+
+weights : -44.652294
+weights : -41.896790
+weights : -21.024456
+weights : -16.593441
+
+847 epochs executed 
+
+weights : -50.726963
+weights : -34.970905
+weights : -26.802773
+weights : -17.684265
+
+848 epochs executed 
+
+weights : -46.438072
+weights : -34.495010
+weights : -33.861797
+weights : -16.489250
+
+849 epochs executed 
+
+weights : -45.588093
+weights : -35.925034
+weights : -33.501991
+weights : -14.333889
+
+850 epochs executed 
+
+weights : -50.476810
+weights : -36.932758
+weights : -32.313019
+weights : -8.424267
+
+851 epochs executed 
+
+weights : -47.722607
+weights : -39.519684
+weights : -33.931149
+weights : -16.606810
+
+852 epochs executed 
+
+weights : -50.582314
+weights : -35.559280
+weights : -35.785942
+weights : -18.743633
+
+853 epochs executed 
+
+weights : -46.654572
+weights : -32.879704
+weights : -43.903767
+weights : -15.213745
+
+854 epochs executed 
+
+weights : -47.558361
+weights : -38.338505
+weights : -40.120800
+weights : -16.867838
+
+855 epochs executed 
+
+weights : -50.628479
+weights : -37.699020
+weights : -28.161730
+weights : -21.986542
+
+856 epochs executed 
+
+weights : -49.977425
+weights : -39.666939
+weights : -34.660450
+weights : -16.112545
+
+857 epochs executed 
+
+weights : -51.284393
+weights : -37.531525
+weights : -36.380440
+weights : -10.422694
+
+858 epochs executed 
+
+weights : -52.664574
+weights : -35.907139
+weights : -25.826862
+weights : -18.226744
+
+859 epochs executed 
+
+weights : -49.385345
+weights : -29.720051
+weights : -34.399696
+weights : -19.054594
+
+860 epochs executed 
+
+weights : -46.945496
+weights : -33.908356
+weights : -34.398487
+weights : -18.870335
+
+861 epochs executed 
+
+weights : -48.320969
+weights : -32.143181
+weights : -33.101902
+weights : -13.950779
+
+862 epochs executed 
+
+weights : -51.100201
+weights : -38.762875
+weights : -27.909943
+weights : -11.599801
+
+863 epochs executed 
+
+weights : -46.650650
+weights : -36.060486
+weights : -34.029369
+weights : -18.970644
+
+864 epochs executed 
+
+weights : -40.935318
+weights : -36.414303
+weights : -37.079399
+weights : -16.698065
+
+865 epochs executed 
+
+weights : -45.751991
+weights : -34.959599
+weights : -38.389713
+weights : -14.897227
+
+866 epochs executed 
+
+weights : -49.493980
+weights : -32.298515
+weights : -39.874348
+weights : -20.278419
+
+867 epochs executed 
+
+weights : -48.628635
+weights : -37.341427
+weights : -33.132084
+weights : -20.596813
+
+868 epochs executed 
+
+weights : -49.953377
+weights : -35.379730
+weights : -38.049603
+weights : -18.129881
+
+869 epochs executed 
+
+weights : -49.925209
+weights : -30.099045
+weights : -38.267616
+weights : -21.557745
+
+870 epochs executed 
+
+weights : -47.964108
+weights : -35.313763
+weights : -31.792042
+weights : -16.133005
+
+871 epochs executed 
+
+weights : -49.590797
+weights : -28.392078
+weights : -33.926163
+weights : -18.791039
+
+872 epochs executed 
+
+weights : -49.945786
+weights : -37.952259
+weights : -28.507704
+weights : -14.032804
+
+873 epochs executed 
+
+weights : -45.884491
+weights : -40.702572
+weights : -27.575333
+weights : -17.852013
+
+874 epochs executed 
+
+weights : -49.549435
+weights : -35.531368
+weights : -33.313660
+weights : -13.892910
+
+875 epochs executed 
+
+weights : -44.332607
+weights : -34.635494
+weights : -37.947186
+weights : -10.239344
+
+876 epochs executed 
+
+weights : -50.206669
+weights : -29.338129
+weights : -34.868378
+weights : -20.216337
+
+877 epochs executed 
+
+weights : -48.074459
+weights : -34.904449
+weights : -31.483303
+weights : -20.451553
+
+878 epochs executed 
+
+weights : -48.154259
+weights : -41.942249
+weights : -31.276632
+weights : -13.230304
+
+879 epochs executed 
+
+weights : -51.861900
+weights : -33.263866
+weights : -33.804646
+weights : -13.461593
+
+880 epochs executed 
+
+weights : -49.388878
+weights : -32.903790
+weights : -27.038479
+weights : -19.471685
+
+881 epochs executed 
+
+weights : -51.061012
+weights : -31.842312
+weights : -33.262691
+weights : -14.514261
+
+882 epochs executed 
+
+weights : -49.217827
+weights : -35.285728
+weights : -30.807722
+weights : -12.411077
+
+883 epochs executed 
+
+weights : -47.402325
+weights : -34.238853
+weights : -34.768520
+weights : -13.393167
+
+884 epochs executed 
+
+weights : -54.253063
+weights : -24.211172
+weights : -31.632030
+weights : -23.299252
+
+885 epochs executed 
+
+weights : -53.800209
+weights : -38.524445
+weights : -29.194447
+weights : -13.284497
+
+886 epochs executed 
+
+weights : -46.849049
+weights : -37.885162
+weights : -39.922554
+weights : -11.600293
+
+887 epochs executed 
+
+weights : -53.144196
+weights : -33.502476
+weights : -39.106506
+weights : -17.529726
+
+888 epochs executed 
+
+weights : -48.502964
+weights : -31.451792
+weights : -43.735741
+weights : -19.679470
+
+889 epochs executed 
+
+weights : -50.715195
+weights : -36.393417
+weights : -37.045341
+weights : -20.037045
+
+890 epochs executed 
+
+weights : -53.106960
+weights : -41.107201
+weights : -36.717403
+weights : -17.616039
+
+891 epochs executed 
+
+weights : -50.963276
+weights : -40.956318
+weights : -39.778793
+weights : -17.913670
+
+892 epochs executed 
+
+weights : -55.217426
+weights : -44.966530
+weights : -33.624596
+weights : -22.275103
+
+893 epochs executed 
+
+weights : -52.210114
+weights : -37.999245
+weights : -42.959621
+weights : -20.077419
+
+894 epochs executed 
+
+weights : -56.286060
+weights : -44.174042
+weights : -33.880146
+weights : -18.401356
+
+895 epochs executed 
+
+weights : -49.055542
+weights : -42.390354
+weights : -40.699772
+weights : -17.059362
+
+896 epochs executed 
+
+weights : -48.031658
+weights : -41.516972
+weights : -39.056709
+weights : -21.268198
+
+897 epochs executed 
+
+weights : -53.035873
+weights : -40.552681
+weights : -37.489040
+weights : -22.769341
+
+898 epochs executed 
+
+weights : -55.204941
+weights : -46.775177
+weights : -32.438862
+weights : -17.094208
+
+899 epochs executed 
+
+weights : -50.132038
+weights : -37.078598
+weights : -46.450489
+weights : -19.096533
+
+900 epochs executed 
+
+weights : -53.204906
+weights : -37.649712
+weights : -38.208096
+weights : -18.337229
+
+901 epochs executed 
+
+weights : -48.810898
+weights : -38.407028
+weights : -41.221428
+weights : -14.457409
+
+902 epochs executed 
+
+weights : -47.795067
+weights : -39.954945
+weights : -39.882652
+weights : -14.721108
+
+903 epochs executed 
+
+weights : -46.213478
+weights : -43.005154
+weights : -37.867977
+weights : -17.395826
+
+904 epochs executed 
+
+weights : -51.658245
+weights : -42.396862
+weights : -38.575592
+weights : -12.763297
+
+905 epochs executed 
+
+weights : -55.099869
+weights : -32.607071
+weights : -43.801113
+weights : -13.940621
+
+906 epochs executed 
+
+weights : -57.674595
+weights : -35.849476
+weights : -42.278248
+weights : -17.158607
+
+907 epochs executed 
+
+weights : -55.474339
+weights : -37.815392
+weights : -37.576172
+weights : -17.862272
+
+908 epochs executed 
+
+weights : -56.006756
+weights : -47.056915
+weights : -24.973000
+weights : -17.927145
+
+909 epochs executed 
+
+weights : -56.749557
+weights : -37.989441
+weights : -30.251705
+weights : -23.614862
+
+910 epochs executed 
+
+weights : -51.974972
+weights : -39.746262
+weights : -39.347530
+weights : -17.416357
+
+911 epochs executed 
+
+weights : -50.760590
+weights : -31.260077
+weights : -44.295761
+weights : -18.069595
+
+912 epochs executed 
+
+weights : -49.066742
+weights : -39.969593
+weights : -38.020889
+weights : -12.968985
+
+913 epochs executed 
+
+weights : -46.937199
+weights : -35.942791
+weights : -39.301720
+weights : -16.049870
+
+914 epochs executed 
+
+weights : -50.168854
+weights : -37.045685
+weights : -30.130941
+weights : -23.169872
+
+915 epochs executed 
+
+weights : -50.475452
+weights : -34.212902
+weights : -33.961349
+weights : -19.806417
+
+916 epochs executed 
+
+weights : -47.051620
+weights : -39.969620
+weights : -31.391277
+weights : -19.678139
+
+917 epochs executed 
+
+weights : -46.255440
+weights : -34.579140
+weights : -37.051605
+weights : -15.562426
+
+918 epochs executed 
+
+weights : -47.165272
+weights : -36.497372
+weights : -29.455439
+weights : -24.618538
+
+919 epochs executed 
+
+weights : -46.346561
+weights : -38.434395
+weights : -32.368229
+weights : -16.468050
+
+920 epochs executed 
+
+weights : -51.493782
+weights : -37.774208
+weights : -27.521160
+weights : -19.707563
+
+921 epochs executed 
+
+weights : -43.282326
+weights : -34.726326
+weights : -39.292385
+weights : -17.770674
+
+922 epochs executed 
+
+weights : -45.591038
+weights : -45.577744
+weights : -30.505276
+weights : -8.934453
+
+923 epochs executed 
+
+weights : -47.388447
+weights : -37.726955
+weights : -32.343002
+weights : -15.736781
+
+924 epochs executed 
+
+weights : -42.757030
+weights : -37.211678
+weights : -34.311226
+weights : -22.308483
+
+925 epochs executed 
+
+weights : -46.156040
+weights : -35.740398
+weights : -32.974861
+weights : -21.907373
+
+926 epochs executed 
+
+weights : -50.553780
+weights : -33.973194
+weights : -33.667271
+weights : -19.940847
+
+927 epochs executed 
+
+weights : -50.342262
+weights : -33.890511
+weights : -30.319883
+weights : -17.216057
+
+928 epochs executed 
+
+weights : -47.936069
+weights : -31.384642
+weights : -30.879715
+weights : -19.593920
+
+929 epochs executed 
+
+weights : -47.587231
+weights : -39.475658
+weights : -33.666443
+weights : -16.664850
+
+930 epochs executed 
+
+weights : -45.212261
+weights : -39.080471
+weights : -42.010471
+weights : -12.175449
+
+931 epochs executed 
+
+weights : -48.667023
+weights : -39.560688
+weights : -35.375080
+weights : -18.238907
+
+932 epochs executed 
+
+weights : -50.487545
+weights : -36.208473
+weights : -31.944019
+weights : -25.146469
+
+933 epochs executed 
+
+weights : -51.968288
+weights : -35.173771
+weights : -37.076847
+weights : -15.290331
+
+934 epochs executed 
+
+weights : -48.285362
+weights : -26.851273
+weights : -43.808788
+weights : -23.412865
+
+935 epochs executed 
+
+weights : -47.241745
+weights : -40.131886
+weights : -44.328922
+weights : -9.302857
+
+936 epochs executed 
+
+weights : -51.562965
+weights : -37.104607
+weights : -36.798351
+weights : -20.008619
+
+937 epochs executed 
+
+weights : -48.023548
+weights : -37.382023
+weights : -38.394077
+weights : -28.732891
+
+938 epochs executed 
+
+weights : -52.588646
+weights : -33.943012
+weights : -35.030884
+weights : -24.581501
+
+939 epochs executed 
+
+weights : -48.327839
+weights : -38.040127
+weights : -35.258018
+weights : -16.380873
+
+940 epochs executed 
+
+weights : -51.503345
+weights : -36.504639
+weights : -28.030052
+weights : -20.757704
+
+941 epochs executed 
+
+weights : -58.708138
+weights : -36.661751
+weights : -28.338062
+weights : -16.774618
+
+942 epochs executed 
+
+weights : -53.605507
+weights : -37.228764
+weights : -36.950394
+weights : -9.340368
+
+943 epochs executed 
+
+weights : -48.774864
+weights : -36.357784
+weights : -39.759121
+weights : -14.487076
+
+944 epochs executed 
+
+weights : -50.392155
+weights : -34.077305
+weights : -37.865448
+weights : -17.113478
+
+945 epochs executed 
+
+weights : -48.022083
+weights : -40.198322
+weights : -37.898277
+weights : -13.196484
+
+946 epochs executed 
+
+weights : -46.034481
+weights : -40.446636
+weights : -36.481300
+weights : -12.505731
+
+947 epochs executed 
+
+weights : -49.044601
+weights : -34.429253
+weights : -34.093216
+weights : -14.659382
+
+948 epochs executed 
+
+weights : -48.568626
+weights : -35.861172
+weights : -31.105846
+weights : -16.116064
+
+949 epochs executed 
+
+weights : -47.411812
+weights : -35.122368
+weights : -32.268379
+weights : -19.067480
+
+950 epochs executed 
+
+weights : -43.382469
+weights : -41.913769
+weights : -32.406410
+weights : -9.059176
+
+951 epochs executed 
+
+weights : -49.860817
+weights : -26.472887
+weights : -33.752201
+weights : -18.935759
+
+952 epochs executed 
+
+weights : -48.161304
+weights : -36.161205
+weights : -31.317228
+weights : -17.803312
+
+953 epochs executed 
+
+weights : -47.412552
+weights : -33.280720
+weights : -38.026966
+weights : -11.537112
+
+954 epochs executed 
+
+weights : -50.638287
+weights : -31.401741
+weights : -37.693295
+weights : -15.821063
+
+955 epochs executed 
+
+weights : -51.371536
+weights : -32.953560
+weights : -38.430305
+weights : -12.611707
+
+956 epochs executed 
+
+weights : -51.954563
+weights : -35.269245
+weights : -35.815147
+weights : -20.544241
+
+957 epochs executed 
+
+weights : -52.663525
+weights : -39.093277
+weights : -32.287579
+weights : -17.596127
+
+958 epochs executed 
+
+weights : -47.697929
+weights : -31.637791
+weights : -39.889206
+weights : -17.261868
+
+959 epochs executed 
+
+weights : -52.894333
+weights : -22.924088
+weights : -40.695110
+weights : -19.472328
+
+960 epochs executed 
+
+weights : -46.750366
+weights : -42.886597
+weights : -32.431446
+weights : -18.759287
+
+961 epochs executed 
+
+weights : -42.234562
+weights : -37.893414
+weights : -39.588078
+weights : -18.964739
+
+962 epochs executed 
+
+weights : -46.184868
+weights : -43.207344
+weights : -28.686478
+weights : -21.684464
+
+963 epochs executed 
+
+weights : -49.865341
+weights : -36.306358
+weights : -31.546375
+weights : -24.514492
+
+964 epochs executed 
+
+weights : -47.633022
+weights : -30.042574
+weights : -41.424500
+weights : -17.587187
+
+965 epochs executed 
+
+weights : -49.285568
+weights : -35.097893
+weights : -37.100620
+weights : -11.942770
+
+966 epochs executed 
+
+weights : -49.977825
+weights : -34.973915
+weights : -37.297146
+weights : -17.886850
+
+967 epochs executed 
+
+weights : -49.386135
+weights : -34.421635
+weights : -37.194935
+weights : -12.062235
+
+968 epochs executed 
+
+weights : -48.252075
+weights : -38.806450
+weights : -32.502159
+weights : -13.677565
+
+969 epochs executed 
+
+weights : -46.030674
+weights : -36.555164
+weights : -38.223892
+weights : -14.372593
+
+970 epochs executed 
+
+weights : -45.523495
+weights : -37.047665
+weights : -39.010216
+weights : -16.949003
+
+971 epochs executed 
+
+weights : -55.690670
+weights : -29.279575
+weights : -34.004108
+weights : -17.647022
+
+972 epochs executed 
+
+weights : -55.059517
+weights : -28.021400
+weights : -30.456635
+weights : -24.638250
+
+973 epochs executed 
+
+weights : -48.471779
+weights : -29.405918
+weights : -45.040848
+weights : -16.855349
+
+974 epochs executed 
+
+weights : -46.198536
+weights : -43.915726
+weights : -35.839474
+weights : -13.420787
+
+975 epochs executed 
+
+weights : -50.395676
+weights : -32.890541
+weights : -37.414703
+weights : -15.580033
+
+976 epochs executed 
+
+weights : -54.055889
+weights : -44.246662
+weights : -24.466837
+weights : -23.581053
+
+977 epochs executed 
+
+weights : -46.906410
+weights : -37.958172
+weights : -42.608864
+weights : -19.157328
+
+978 epochs executed 
+
+weights : -47.369946
+weights : -43.907284
+weights : -32.490898
+weights : -18.738194
+
+979 epochs executed 
+
+weights : -53.836033
+weights : -38.976383
+weights : -34.104645
+weights : -20.376413
+
+980 epochs executed 
+
+weights : -49.198700
+weights : -41.552704
+weights : -42.232967
+weights : -9.637025
+
+981 epochs executed 
+
+weights : -52.079678
+weights : -35.814716
+weights : -40.580414
+weights : -17.402033
+
+982 epochs executed 
+
+weights : -56.608582
+weights : -41.252739
+weights : -31.128139
+weights : -28.115004
+
+983 epochs executed 
+
+weights : -55.204990
+weights : -42.581257
+weights : -36.809059
+weights : -15.471410
+
+984 epochs executed 
+
+weights : -50.391735
+weights : -39.597477
+weights : -39.274387
+weights : -22.425922
+
+985 epochs executed 
+
+weights : -49.047344
+weights : -39.291195
+weights : -36.977821
+weights : -19.486538
+
+986 epochs executed 
+
+weights : -49.480244
+weights : -38.213116
+weights : -35.790051
+weights : -12.807076
+
+987 epochs executed 
+
+weights : -48.766678
+weights : -35.473537
+weights : -42.626446
+weights : -15.427365
+
+988 epochs executed 
+
+weights : -53.482342
+weights : -30.468105
+weights : -39.890671
+weights : -17.753929
+
+989 epochs executed 
+
+weights : -54.389267
+weights : -32.645107
+weights : -34.091072
+weights : -16.602926
+
+990 epochs executed 
+
+weights : -49.380325
+weights : -36.481628
+weights : -37.103199
+weights : -18.975544
+
+991 epochs executed 
+
+weights : -44.755348
+weights : -36.280945
+weights : -43.299725
+weights : -17.273235
+
+992 epochs executed 
+
+weights : -50.103127
+weights : -39.893959
+weights : -29.447544
+weights : -16.406685
+
+993 epochs executed 
+
+weights : -45.413486
+weights : -36.465179
+weights : -34.053772
+weights : -22.261351
+
+994 epochs executed 
+
+weights : -47.322582
+weights : -38.534496
+weights : -35.531506
+weights : -17.150394
+
+995 epochs executed 
+
+weights : -47.453384
+weights : -33.926197
+weights : -36.050037
+weights : -14.674424
+
+996 epochs executed 
+
+weights : -49.491798
+weights : -37.168720
+weights : -32.221680
+weights : -16.967474
+
+997 epochs executed 
+
+weights : -46.842625
+weights : -42.517933
+weights : -27.756809
+weights : -18.313728
+
+998 epochs executed 
+
+weights : -52.596699
+weights : -33.839535
+weights : -32.046120
+weights : -23.664740
+
+999 epochs executed 
+
+weights : -55.105057
+weights : -32.722149
+weights : -33.251251
+weights : -23.259916
+
+1000 epochs executed 
+
+weights : -48.816719
+weights : -43.695461
+weights : -33.617775
+weights : -20.440321
+Number of epochs required for training the model : 1000
+
+
+Final weights : -48.816719
+Final weights : -43.695461
+Final weights : -33.617775
+Final weights : -20.440321
+
+Accuracy of the model : 95.000000
+
+txm@txm-Aspire-E5-575G: ~/Desktop ./slp balancescale.csv
+
+Number of elements in dataset : 576
+
+1 epochs executed 
+
+weights : -16.000000
+weights : -16.000000
+weights : 16.000000
+weights : 14.000000
+
+2 epochs executed 
+
+weights : -21.000000
+weights : -20.000000
+weights : 19.000000
+weights : 20.000000
+
+
+No more learning is possible
+
+Number of epochs required for training the model : 2
+
+
+Final weights : -21.000000
+Final weights : -20.000000
+Final weights : 19.000000
+Final weights : 20.000000
+
+Accuracy of the model : 94.000000
+
+Script done on 2018-09-19 05:30:51-0400
