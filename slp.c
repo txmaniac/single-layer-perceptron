@@ -3,6 +3,7 @@
 #include <math.h>
 #include <string.h>
 #include <time.h>
+#include <unistd.h>
 
 typedef struct my_record {
     float A;
@@ -107,9 +108,13 @@ float test_slp(rec* records,int size,int times){
 int main(int argc, char** argv){
 	
 	int i;
+	char cwd[100000];
 	char inp[30];
+	getcwd(cwd, sizeof(cwd));
+	
 	float bias = (rand()%10 + 1)/10;
-	strcpy(inp,"/home/txm/Desktop/SLP/");
+	strcpy(inp,cwd);
+	strcat(inp,"/");
 	strcat(inp,argv[1]);
 	FILE* my_file = fopen(inp,"r");
 	time_t t;
