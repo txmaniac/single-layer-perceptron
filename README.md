@@ -6,6 +6,6 @@ Single Perceptron model which is capable of learning datasets with 5 features an
 # For compiling code
 gcc slp.c -o slp -lm
 
-./slp <Dataset-name>
+./slp 'Dataset-name'
   
  Note: Before compiling the code, please edit the path in line 112 of slp.c
